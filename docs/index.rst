@@ -8,13 +8,13 @@ Python for Scientists
 
 Welcome!
 
-If you're visiting this page, you're probably a scientist who has trying to install Python. You're probably new to Python. Perhaps your collaborators sent you some a Jupyter notebook (whatever that is). Or you're looking for a free, open-source alternative to Matlab/Mathematica.
+If you're visiting this page, you're probably a scientist who is trying to install Python. You're probably new to Python. Perhaps your collaborators sent you a Jupyter notebook (whatever that is). Or you're looking for a free, open-source alternative to Matlab/Mathematica.
 
-This guide describes a path-of-least-resistance to installing Python. This means installing Python, Jupyter notebooks, and key scientific libraries.
+This guide describes a path-of-least-resistance to setting up Python for science. This means installing Python, Jupyter notebooks, and key scientific libraries.
 
 If you find this helpful, let us know by XX
 
-If you have topics you'd like covered, suggest then here. If you run into issues or find problems, let us know!
+If you have topics you'd like covered, suggest them here. If you run into issues or find problems, let us know!
 
 .. toctree::
    :maxdepth: 2
