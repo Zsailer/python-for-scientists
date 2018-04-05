@@ -22,7 +22,7 @@ If you have topics you'd like covered, suggest them here. If you run into issues
 
    _pages/quick_guide.rst
    _pages/things_to_know.rst
-
+   _pages/FAQ.rst
 
 Indices and tables
 ==================
