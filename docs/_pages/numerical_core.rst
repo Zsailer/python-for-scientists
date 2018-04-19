@@ -12,6 +12,7 @@ NumPy introduces arrays to python. Numpy arrays are an essential tool for scient
 To install NumPy in your python environment simply run: 
 
 ::
+
     pip install numpy
 
 
@@ -23,6 +24,7 @@ SciPy contains a broad range of useful tools for scientific computing including 
 To install SciPy in your python environment simply run: 
 
 ::
+
     pip install scipy
 
 
@@ -34,6 +36,7 @@ Pandas brings the feel of spreadsheets to your python computing environment! Pan
 To install pandas in your python environment simply run: 
 
 ::
+
     pip install pandas
 
 
