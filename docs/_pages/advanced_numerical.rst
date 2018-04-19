@@ -66,7 +66,7 @@ To install this library in your Python environment simply run:
 emcee
 -----
 
-emcee is a Python library built for efficient Bayesian computations. It implements the Affine Invariant Markov chain Monte Carlo (MCMC) Ensemble sampler to reconstruct posterior probability distributions for model parameters. If you're looking to implement a Bayesian fit in your analysis this libary will be a useful tool. 
+emcee is a Python library for efficiently estimating probability distributions. It uses an efficient MCMC sampling strategy that is often used to approximate posterior distributions in Bayes Theorem. If you're looking to implement a Bayesian fit in your analysis we recommend using emcee. 
 
 To install this library in your Python environment simply run: 
 ::
@@ -86,7 +86,7 @@ To install this library in your Python environment simply run:
 Networkx
 --------
 
-Networkx is an excellent library designed to deal with network analyses. It introduces a Graph datastructure that makes encoding networks easy and intuitive. Networkx includes a variety of tools for building and analyzing networks. It has the ability to export Graph objects in many different formats and can interface directly with NumPy and Pandas. If you're looking to deal with networks in your analysis Networkx will be extremely useful. 
+Networkx offers a simple interface for managing network data. It introduces a Graph datatype that is easy and intuitive to use. It also provides various algorithms for analyzing and plotting networks.
 
 To install this library in your Python environment simply run: 
 ::
@@ -101,12 +101,12 @@ Numba is a library designed to help you speed up your Python calculations. It ac
 To install this library in your Python environment simply run: 
 ::
 
-    pip install scikit-learn numba
+    pip install numba
 
 Cython
 ------
 
-Cython is another library aimed at speeding up Python code. It effectively allows users to write C code using Python syntax. Cython code is compiled and runs at C speed, increasing the performance of your code. 
+Cython is another library aimed at speeding up Python code. Users can write Python code and quickly translate it to a C extension.
 
 To install this library in your Python environment simply run: 
 ::
@@ -116,7 +116,7 @@ To install this library in your Python environment simply run:
 SymPy
 -----
 
-SymPy is a useful library for writing mathematical code. It allows users to write mathematical expressions in a simple symbolic syntax. If you're writing any complicated mathematical functions in your code SymPy will likely be useful to you. 
+SymPy is a library for doing symbolic math. You can compute integrals, derivatives, algebraic manipulations, etc. Think Mathematica in Python.
 
 To install this library in your Python environment simply run: 
 ::
@@ -126,7 +126,7 @@ To install this library in your Python environment simply run:
 StatsModels
 -----------
 
-StatsModels is a versatile statistical environment for Python. It allows users to perform a wide array of statistical tests and analyses. Various regressions are available for model fitting. It also includes tools for plotting and nonparametric statistics. If you'll be implemented a lot of statistics in Python, StatsModels will likely be useful. 
+StatsModels is a versatile statistical environment for Python. It allows users to perform a wide array of statistical tests and analyses. Various regressions are available for model fitting. It also includes tools for plotting and nonparametric statistics. If you'll be implementing a lot of statistics in Python, StatsModels will likely be useful. 
 
 To install this library in your Python environment simply run: 
 ::
