@@ -25,6 +25,7 @@ If you have topics you'd like covered, suggest them here. If you run into issues
    _pages/FAQ.rst
    _pages/environments_and_kernels.rst
    _pages/numerical_core.rst
+   _pages/advanced_numerical.rst
 
 Indices and tables
 ==================
