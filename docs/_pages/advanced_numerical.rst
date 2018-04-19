@@ -6,7 +6,7 @@ This page introduces you to a set of powerful Python libraries for advanced nume
 scikit-learn
 ------------
 
-scikit-learn is a powerful Python library for machine learning. It contains a wide array of useful tools for classification, regression, clustering, dimensionality reduction, and much more. Implementations are available for most standard machine learning algorithms, such as Support Vectro Machines and Decision Trees. If you're planning to implement machine learning in your analyses, then you will want to install scikit-learn. 
+scikit-learn is a powerful Python library for machine learning. It contains a wide array of useful tools for classification, regression, clustering, dimensionality reduction, and much more. Implementations are available for most standard machine learning algorithms, such as Support Vector Machines and Decision Trees. If you're planning to do machine learning in Python, you'll want to install scikit-learn.
 
 To install this library in your Python environment simply run: 
 ::
@@ -16,7 +16,7 @@ To install this library in your Python environment simply run:
 scikit-image
 ------------
 
-scikit-image is a very useful Python library for handling image data. It's a powerful tool for image processing that allows users to identify objects, filter images, mainipulate color channels, and a wide variety of other tasks. 
+scikit-image is a very useful Python library for handling image data. It's a powerful tool for image processing that allows users to identify objects, filter images, manipulate color channels, and a wide variety of other tasks. 
 
 To install this library in your Python environment simply run: 
 ::
@@ -56,7 +56,7 @@ To install this library in your Python environment simply run:
 LmFit
 -----
 
-LmFit is a powerful library for curve-fitting in Python. It implements several methods for non-linear least-squares minimization and introduces some very useful classes. The LmFit Parameters class offers a clean way of handling model paramters while fitting. 
+LmFit is a great tool for non-linear curve fitting. It uses SciPy under-the-hood, but offers a better interface. Specifically, it offers more control when estimating model parameters. If you're going to be fitting complex data in Python, we suggest LmFit.
 
 To install this library in your Python environment simply run: 
 ::
