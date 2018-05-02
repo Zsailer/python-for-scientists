@@ -1,7 +1,7 @@
 .. _`numerical_packages`:
 
-Advanced Numerical Packages
-===========================
+Advanced Scientific Packages
+============================
 
 This page introduces you to a set of powerful Python libraries for advanced numerical computing. Python has libraries for machine learning, model fitting, statistics, network calculations, and much more!
 

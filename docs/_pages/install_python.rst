@@ -1,7 +1,7 @@
 .. _`four steps`:
 
-4 steps to start
-================
+4 steps to Python
+=================
 
 1. `Install Python using Miniconda`_
 2. `Install the Jupyter Notebook`_

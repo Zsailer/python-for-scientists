@@ -1,5 +1,5 @@
-Plotting in Python
-==================
+Plotting Packages
+=================
 
 The most widely used plotting package in Python is Matplotlib.
 
