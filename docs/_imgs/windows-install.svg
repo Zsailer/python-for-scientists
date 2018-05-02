@@ -10,13 +10,16 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="210mm"
-   height="297mm"
-   viewBox="0 0 210 297"
+   width="168.02281mm"
+   height="61.510044mm"
+   viewBox="0 0 168.02281 61.510044"
    version="1.1"
    id="svg8"
+   sodipodi:docname="windows-install.svg"
    inkscape:version="0.92.2 5c3e80d, 2017-08-06"
-   sodipodi:docname="windows-install.svg">
+   inkscape:export-filename="/Users/zsailer/github/python-setup-for-scientists/docs/_imgs/terminal.png"
+   inkscape:export-xdpi="300"
+   inkscape:export-ydpi="300">
   <defs
      id="defs2">
     <clipPath
@@ -38,18 +41,22 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.98994949"
-     inkscape:cx="189.64286"
-     inkscape:cy="1060"
+     inkscape:zoom="1.4142136"
+     inkscape:cx="31.432658"
+     inkscape:cy="229.02406"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="g966"
      showgrid="false"
      inkscape:snap-global="false"
-     inkscape:window-width="1440"
-     inkscape:window-height="856"
-     inkscape:window-x="0"
+     inkscape:window-width="1656"
+     inkscape:window-height="922"
+     inkscape:window-x="72"
      inkscape:window-y="0"
-     inkscape:window-maximized="1" />
+     inkscape:window-maximized="0"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
   <metadata
      id="metadata5">
     <rdf:RDF>
@@ -65,18 +72,25 @@
   <g
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
-     id="layer1">
+     id="layer1"
+     transform="translate(-1.5497017,8.9491445)">
     <g
-       id="g862">
+       id="g966"
+       transform="matrix(0.69972383,0,0,0.69972383,-8.2360191,-3.8415518)"
+       style="stroke-width:1.4291352">
       <g
-         transform="translate(-2.078869,-2.2678571)"
-         id="g846">
-        <image
-           clip-path="url(#clipPath852)"
-           y="7.0232806"
-           x="3.0691669"
-           id="image839"
-           xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAyAAAAHCCAYAAAAXY63IAAAABHNCSVQICAgIfAhkiAAAIABJREFU
+         id="g862"
+         style="stroke-width:1.4291352">
+        <g
+           id="g846"
+           transform="translate(-2.078869,-2.2678571)"
+           style="stroke-width:1.4291352">
+          <image
+             style="stroke-width:0.21535574"
+             width="134.84679"
+             height="75.851311"
+             preserveAspectRatio="none"
+             xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAyAAAAHCCAYAAAAXY63IAAAABHNCSVQICAgIfAhkiAAAIABJREFU
 eJzsvXfcHMV9+P+e2XLledQQSKjQe2+mFxmEEEWmYwQmBtxJYsct3UnsNOx8Y8eOE/sXJ18c+5sY
 Y7oQQohmMM2O44aNwabYdBAgpKdc2d2Z3x+zu7e3d/fcc7pHjx5J8369pHvudnd2ZnZ2dz7zaULu
 sUQzBlqPuRkhxJjbJx855laV2y5F83fVY3P6b//Y9d3cdGtft/HRsr9oX26n8+TLF72dbpOPX93l
@@ -2138,59 +2152,158 @@ AhAAAGAz909Czy5mKXfOEQEAAD6WDAgAALCZ1QxI6SeDd3//5k20Hja9rzw+8NvuBQAAPoUMCAAA
 sJn9WYbjzpiklN1zd9Bdfm0uSKmnL+jvv5Tb7j+zTS+YHrjpdQAA8MlKLVH6RXzE2bp+iQwIAACw
 mf8HOsEhsrZvbEEAAAAASUVORK5CYII=
 "
-           preserveAspectRatio="none"
-           height="75.851311"
-           width="134.84679"
-           style="stroke-width:0.15068954" />
+             id="image839"
+             x="3.0691669"
+             y="7.0232806"
+             clip-path="url(#clipPath852)" />
+          <rect
+             y="13.706844"
+             x="20.727833"
+             height="3.5907733"
+             width="61.859974"
+             id="rect842"
+             style="opacity:0.98999999;vector-effect:none;fill:#fffeff;fill-opacity:1;stroke:none;stroke-width:1.00833428;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:1.00833432, 1.00833432;stroke-dashoffset:0;stroke-opacity:1" />
+        </g>
         <rect
-           style="opacity:0.98999999;vector-effect:none;fill:#fffeff;fill-opacity:1;stroke:none;stroke-width:0.70555556;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:0.70555555, 0.70555555;stroke-dashoffset:0;stroke-opacity:1"
-           id="rect842"
-           width="61.859974"
-           height="3.5907733"
-           x="20.727833"
-           y="13.706844" />
+           style="opacity:0.98999999;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.00833428;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:1.00833432, 1.00833432;stroke-dashoffset:0;stroke-opacity:1"
+           id="rect856"
+           width="88.068451"
+           height="46.302082"
+           x="14.514285"
+           y="15.407738" />
       </g>
+      <flowRoot
+         transform="matrix(0.14969617,0,0,0.14969617,3.8507974,4.3293327)"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40.00000381px;line-height:1.25;font-family:xkcd;-inkscape-font-specification:xkcd;text-align:center;text-anchor:middle;opacity:0.98999999;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:6.73587275;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:6.73587252, 6.73587252;stroke-dashoffset:0;stroke-opacity:1"
+         id="flowRoot864"
+         xml:space="preserve"><flowRegion
+           style="stroke-width:6.73587275"
+           id="flowRegion866"><rect
+             style="stroke-width:6.73587275"
+             y="26.091112"
+             x="68.571426"
+             height="56.785713"
+             width="189.64285"
+             id="rect868" /></flowRegion><flowPara
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.33333397px;font-family:'Noto Nastaliq Urdu';-inkscape-font-specification:'Noto Nastaliq Urdu';stroke-width:6.73587275"
+           id="flowPara870">Anaconda Prompt</flowPara></flowRoot>      <flowRoot
+         transform="matrix(0.29681701,0,0,0.29681701,-12.604286,-8.5976753)"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.33333302px;line-height:1.25;font-family:'Noto Nastaliq Urdu';-inkscape-font-specification:'Noto Nastaliq Urdu';text-align:center;text-anchor:middle;opacity:0.98999999;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:3.39715815;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:3.39715809, 3.39715809;stroke-dashoffset:0;stroke-opacity:1"
+         id="flowRoot872"
+         xml:space="preserve"><flowRegion
+           id="flowRegion874"
+           style="stroke-width:3.39715815"><rect
+             y="90.143784"
+             x="93.944183"
+             height="196.97974"
+             width="415.1727"
+             id="rect876"
+             style="stroke-width:3.39715815" /></flowRegion><flowPara
+           id="flowPara886"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:courier;-inkscape-font-specification:'courier Bold';text-align:start;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke-width:3.39715815">$ C:\Me\Miniconda3&gt; conda install notebook</flowPara><flowPara
+           id="flowPara888"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:courier;-inkscape-font-specification:'courier Bold';text-align:start;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke-width:3.39715815"> </flowPara><flowPara
+           id="flowPara880"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:courier;-inkscape-font-specification:'courier Bold';fill:#ffffff;fill-opacity:1;stroke-width:3.39715815" /><flowPara
+           id="flowPara882"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:courier;-inkscape-font-specification:'courier Bold';fill:#ffffff;fill-opacity:1;stroke-width:3.39715815" /><flowPara
+           id="flowPara884"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:courier;-inkscape-font-specification:'courier Bold';fill:#ffffff;fill-opacity:1;stroke-width:3.39715815" /></flowRoot>    </g>
+    <g
+       id="g1000"
+       transform="matrix(0.8669282,0,0,0.86644837,0.59581549,-5.492555)"
+       style="stroke-width:1.15381742">
       <rect
-         y="15.407738"
-         x="14.514285"
-         height="46.302082"
-         width="88.068451"
-         id="rect856"
-         style="opacity:0.98999999;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.70555556;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:0.70555555, 0.70555555;stroke-dashoffset:0;stroke-opacity:1" />
+         y="10.985418"
+         x="101.6"
+         height="54.768745"
+         width="92.215355"
+         id="rect968"
+         style="opacity:0.98999999;vector-effect:none;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:2.0352056;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path970"
+         d="m 100.62747,14.425002 h 94.28682"
+         style="fill:none;stroke:#d4d4d4;stroke-width:0.40704116;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         sodipodi:nodetypes="cc" />
+      <circle
+         r="1.3096206"
+         cy="12.218948"
+         cx="103.46004"
+         id="path972"
+         style="opacity:0.98999999;vector-effect:none;fill:#d6d6d6;fill-opacity:1;stroke:none;stroke-width:0.40704116;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <circle
+         r="1.3096206"
+         cy="12.218948"
+         cx="107.34212"
+         id="path972-9"
+         style="opacity:0.98999999;vector-effect:none;fill:#d6d6d6;fill-opacity:1;stroke:none;stroke-width:0.40704116;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <circle
+         r="1.3096206"
+         cy="12.218948"
+         cx="111.22421"
+         id="path972-6"
+         style="opacity:0.98999999;vector-effect:none;fill:#d6d6d6;fill-opacity:1;stroke:none;stroke-width:0.40704116;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
     </g>
     <flowRoot
        xml:space="preserve"
-       id="flowRoot864"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40.00000381px;line-height:1.25;font-family:xkcd;-inkscape-font-specification:xkcd;text-align:center;text-anchor:middle;opacity:0.98999999;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:4.71325064;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:4.71325052, 4.71325052;stroke-dashoffset:0;stroke-opacity:1"
-       transform="matrix(0.14969617,0,0,0.14969617,3.9453287,4.3293327)"><flowRegion
-         id="flowRegion866"
-         style="stroke-width:4.71325064"><rect
-           id="rect868"
-           width="189.64285"
-           height="56.785713"
-           x="68.571426"
-           y="26.091112"
-           style="stroke-width:4.71325064" /></flowRegion><flowPara
-         id="flowPara870"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.33333397px;font-family:'Noto Nastaliq Urdu';-inkscape-font-specification:'Noto Nastaliq Urdu';stroke-width:4.71325064">Anaconda Prompt</flowPara></flowRoot>    <flowRoot
+       id="flowRoot1002"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.66666698px;line-height:1.25;font-family:Monaco;-inkscape-font-specification:'Monaco Bold';text-align:start;text-anchor:start;opacity:0.98999999;vector-effect:none;fill:#d4d4d4;fill-opacity:1;stroke:none;stroke-width:1.33333337;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       transform="matrix(0.26458333,0,0,0.26458333,-23.547917,-21.695833)"><flowRegion
+         id="flowRegion1004"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.66666698px;font-family:Monaco;-inkscape-font-specification:'Monaco Bold';fill:#d4d4d4;fill-opacity:1;stroke:none"><rect
+           id="rect1006"
+           width="345"
+           height="97.999992"
+           x="427"
+           y="117.51969"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.66666698px;font-family:Monaco;-inkscape-font-specification:'Monaco Bold';fill:#d4d4d4;fill-opacity:1;stroke:none" /></flowRegion><flowPara
+         id="flowPara1008"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.66666698px;font-family:Monaco;-inkscape-font-specification:Monaco">Macbook:~$ conda install notebook </flowPara></flowRoot>    <text
        xml:space="preserve"
-       id="flowRoot872"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.33333302px;line-height:1.25;font-family:'Noto Nastaliq Urdu';-inkscape-font-specification:'Noto Nastaliq Urdu';text-align:center;text-anchor:middle;opacity:0.98999999;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.66666675;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:2.66666667, 2.66666667;stroke-dashoffset:0;stroke-opacity:1"
-       transform="matrix(0.26458333,0,0,0.26458333,-8.8198948,-5.6126601)"><flowRegion
-         id="flowRegion874"><rect
-           id="rect876"
-           width="415.1727"
-           height="196.97974"
-           x="93.944183"
-           y="90.143784" /></flowRegion><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:courier;-inkscape-font-specification:'courier Bold';text-align:start;text-anchor:start;fill:#ffffff;fill-opacity:1"
-         id="flowPara886">$ C:\Username\Miniconda3&gt; conda install jupyter</flowPara><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:courier;-inkscape-font-specification:'courier Bold';text-align:start;text-anchor:start;fill:#ffffff;fill-opacity:1"
-         id="flowPara888"> </flowPara><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:courier;-inkscape-font-specification:'courier Bold';fill:#ffffff;fill-opacity:1"
-         id="flowPara880" /><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:courier;-inkscape-font-specification:'courier Bold';fill:#ffffff;fill-opacity:1"
-         id="flowPara882" /><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:courier;-inkscape-font-specification:'courier Bold';fill:#ffffff;fill-opacity:1"
-         id="flowPara884" /></flowRoot>  </g>
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.52777767px;line-height:1.25;font-family:Monaco;-inkscape-font-specification:'Monaco Bold';text-align:start;text-anchor:start;opacity:0.98999999;vector-effect:none;fill:#d4d4d4;fill-opacity:1;stroke:none;stroke-width:0.35277778;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       x="113.77083"
+       y="33.475002"
+       id="text1012"><tspan
+         sodipodi:role="line"
+         id="tspan1010"
+         x="113.77083"
+         y="36.738197"
+         style="stroke-width:0.35277778" /></text>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot1014"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.66666698px;line-height:1.25;font-family:Monaco;-inkscape-font-specification:Monaco;text-align:start;text-anchor:start;opacity:0.98999999;vector-effect:none;fill:#d4d4d4;fill-opacity:1;stroke:none;stroke-width:1.33333337;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       transform="matrix(0.26458333,0,0,0.26458333,88.305851,26.150694)"><flowRegion
+         id="flowRegion1016"><rect
+           id="rect1018"
+           width="302.64169"
+           height="79.195961"
+           x="-257.38687"
+           y="-134.71617" /></flowRegion><flowPara
+         id="flowPara1020"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:42.66666794px;font-family:xkcd;-inkscape-font-specification:xkcd;fill:#000000;fill-opacity:1;stroke:none;stroke-opacity:1">Windows</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot1014-4"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.66666698px;line-height:1.25;font-family:Monaco;-inkscape-font-specification:Monaco;text-align:start;text-anchor:start;opacity:0.98999999;vector-effect:none;fill:#d4d4d4;fill-opacity:1;stroke:none;stroke-width:1.33333337;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       transform="matrix(0.26458333,0,0,0.26458333,169.94443,26.194791)"><flowRegion
+         id="flowRegion1016-5"><rect
+           id="rect1018-3"
+           width="302.64169"
+           height="79.195961"
+           x="-257.38687"
+           y="-134.71617" /></flowRegion><flowPara
+         id="flowPara1020-9"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:42.66666794px;font-family:xkcd;-inkscape-font-specification:xkcd;fill:#000000;fill-opacity:1;stroke:none;stroke-opacity:1">Mac/Linux</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot1046"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:42.66666794px;line-height:1.25;font-family:xkcd;-inkscape-font-specification:xkcd;text-align:start;text-anchor:start;opacity:0.98999999;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.33333337;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       transform="scale(0.26458333)"><flowRegion
+         id="flowRegion1048"><rect
+           id="rect1050"
+           width="943.28046"
+           height="554.3717"
+           x="-131.52187"
+           y="-222.3974" /></flowRegion><flowPara
+         id="flowPara1052"></flowPara></flowRoot>  </g>
 </svg>

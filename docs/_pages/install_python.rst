@@ -1,110 +1,120 @@
-Setting up Scientific Python
-============================
+4 steps to start
+================
 
 1. `Install Python using Miniconda`_
-2. `Install Jupyter Notebooks`_
-3. `Install key scientific packages`_
-4. `Run you first Jupyter Notebook.`_
+2. `Install the Jupyter Notebook`_
+3. `Install core scientific packages`_
+4. `Run the Jupyter Notebook`_
 
 .. _`Install Python using Miniconda`:
 
 1. Install Python using Miniconda
 ---------------------------------
 
-.. image:: ../../_imgs/miniconda.png
-  :scale: 10%
+.. image:: ../_imgs/miniconda.png
+  :scale: 17 %
   :align: right
 
 We recommend Miniconda_ (`even if you have Python already installed`_).
 
 .. _Miniconda: https://conda.io/miniconda.html
 
-Miniconda comes with Python and the Conda_ package manager. Installers_ exist
-for Windows, Mac, and Linux. Download the installer that matches your operating
-system and follow the directions to install on your computer.
+Miniconda installers contains Python and the Conda_ package manager. Installers_ exist for Windows, Mac, and Linux. Download the installer that matches your operating system and follow the directions to install miniconda on your computer. (`Should I install Python 2 or 3`_?)
 
-Miniconda keeps everything contained in a single folder. If anything ever goes
-wrong, you can always remove this folder and start over.
+Once installed, Miniconda becomes a folder that contains everything Python and Conda related. If anything ever goes wrong with your Python setup, you can always remove the Miniconda folder and start over.
 
 .. _Conda: https://conda.io/docs/
 .. _Installers: https://conda.io/miniconda.html
 
-Conda will be your main tool for installing Python packages. It installs
-packages through a mechanism known as *conda-recipes*. (It's important to
-note, it can do `many other`_ things as well.) Conda also manages package updates and creates virtual environments.
+Conda will be your main tool for installing Python packages moving forward. It installs packages through a mechanism known as *conda-recipes*. (It's important to note, it can do `many other`_ things as well.) Conda also manages package updates and creates virtual environments.
 
-To use conda, call ``conda install some_package_name``. We'll use this command to install **pip**.
+*pip* is another tool for installing Python packages (and comes with Miniconda). If a conda-recipe does not exist for a package, you can try installing using pip.
+
+
+.. _`Install the Jupyter Notebook`:
+
+2. Install the Jupyter Notebook.
+--------------------------------
+
+To install new Python packages using Conda, you'll want to need use a `command line interface`_.
+
+.. _`command line interface`: https://en.wikipedia.org/wiki/Command-line_interface
+
+**On Windows**, use your new **Anaconda prompt** application installed by Miniconda.
+
+**On Mac and Linux**, use the **Terminal** application.
+
+
+.. image:: ../_imgs/terminal.png
+  :scale: 50%
+
+
+Using your new *conda* tool, install the Jupyter Notebook. The commands looks like:
+
 
 .. code-block:: bash
 
-  conda install pip
+  > conda install notebook
 
 
-*pip* is another tool for installing Python packages. If a conda-recipe does not exist for a package you are trying to install, you should trying installing using pip.
 
+In general, you'll type ``conda install some_package_name`` to install new packages. If a package cannot be installed from conda, try using **pip**.
 
 .. code-block:: bash
 
-  pip install ..
+  # Installing with conda
+  > conda install some_package_name
+
+  # Installing with pip
+  > pip install some_package_name
 
 
-.. _`Install Jupyter Notebooks`:
+.. _`Install core scientific packages`:
 
-2. Install Jupyter Notebooks.
------------------------------
+3. Install core scientific packages
+-----------------------------------
 
-Using your new *conda* tool, install the Jupyter Notebook.
-
-
-.. image:: ../../_imgs/notebook.png
-  :scale: 25%
+.. image:: ../_imgs/notebook.png
+  :scale: 37%
   :align: right
 
-.. code-block:: bash
 
-  conda install notebook
+Before you run a Jupyter notebook, you'll want to install a few core scientific packages. These packages allow you to awesome notebooks like the one show to the right.
 
+- Matplotlib_ is Python's most popular plotting package.
+- Numpy_ and SciPy_ are Python's fundamental packages for scientific computing.
 
-
-.. _`Install key scientific packages`:
-
-3. Install key scientific packages
-----------------------------------
-
-Before we use the Jupyter notebooks, we'll want Python's main plotting library, Matplotlib, and key scientific programming packages like Numpy and SciPy. For even more scientific packages, see this list_.
+.. _Matplotlib: https://matplotlib.org/
+.. _Numpy: http://www.numpy.org/
+.. _SciPy: https://www.scipy.org/
 
 .. code-block:: bash
 
-  conda install numpy scipy matplotlib
+  > conda install numpy scipy matplotlib
+
+A more comprehensible list of Python packages for scientific computing can be found here_.
+
+.. _here: advanced_numerical.html
 
 
-.. _list: ../package_list
 
-.. _`Run you first Jupyter Notebook.`:
-
-4. Run you first Jupyter Notebook.
-----------------------------------
-
-The default entry point to Jupyter Notebooks is through a terminal. Call
+.. _`Run the Jupyter Notebook`:
 
 
-.. code-block::
+4. Run the Jupyter Notebook
+---------------------------
+Open Jupyter Notebooks using a command line interface (why_?). Run the following command on the command line:
 
-.. _`even if you have Python already installed`:
+.. code-block:: bash
 
+  > jupyter notebook
 
-FAQ questions
--------------
-
-**What if my operating system already comes with Python installed?**
-
-It's best not to mess with the native Python on your machine. On Macs, for example, many programs depend on that native Python. If you break it, you can break your Mac.
-
-**What is the difference between ``conda`` and ``pip``?**
-
-Miniconda installs and manages Python (and it's packages) in a single folder on your computer. It's lightweight and easy to use. If anything goes wrong, you can always startover by uninstalling and reinstalling Miniconda. It's safe!
-
-Download the install script from here_
+Your output on the command line may look something like this:
 
 
-.. _here
+.. image:: ../_imgs/jupyter-terminal.png
+  :scale: 40%
+  :align: center
+
+
+And the notebook application will launch in a browser window.

@@ -7,29 +7,52 @@ Python for Scientists
 =====================
 
 
-    *"For many scientists, the open-source nature of Python is intimidating. They would like to use something like Jupyter notebooks, but they don't know where to begin. Proprietary software like Matlab and Mathematica comes prepackaged and ready out-of-the-box. We wanted to provide a quick guide to getting started in Python."*
-
-    - Zach Sailer
+    *"For many scientists, the open-source nature of Python is intimidating. They would like to use something like Jupyter notebooks, but they don't know where to begin. Proprietary software like Matlab and Mathematica is pre-packaged and ready out-of-the-box. We wanted to provide a quick guide to getting started with scientific Python."*  ---Zach Sailer
 
 
-If you're visiting this page, you're probably a scientist who is trying to install Python. You're probably new to Python. Perhaps your collaborators sent you a Jupyter notebook (whatever that is). Or you're looking for a free, open-source alternative to Matlab/Mathematica.
+This page describes `4 steps to starting Python`_ for **scientists**:
 
-This guide describes a path-of-least-resistance to setting up Python for science. This means installing Python, Jupyter notebooks, and key scientific libraries.
+1. Install Python using Miniconda
+2. Install the Jupyter Notebook
+3. Install core scientific packages
+4. Run the Jupyter Notebook
 
-If you find this helpful, let us know by XX
 
-If you have topics you'd like covered, suggest them here. If you run into issues or find problems, let us know!
+.. image:: _imgs/notebook.png
+  :scale: 60%
+  :align: center
+
+
+.. _`4 steps to starting python`: _pages/install_python.html
+
+
+**If you find this helpful,** let us know by visiting this page and giving it a "`thumbs up`_".
+
+.. image:: _imgs/thumbs-up.png
+  :width: 500 px
+  :align: center
+
+.. _`thumbs up`: https://github.com/Zsailer/python-setup-for-scientists/issues/4
+
+**Please feel free to open an** issue_ **if:**
+
+.. _issue: https://github.com/Zsailer/python-setup-for-scientists/issues/new
+
+1. You have a topic you'd like us to add or,
+2. You find problems in our instructions.
+
 
 .. toctree::
-   :maxdepth: 1
-   :caption: Table of Contents
+  :maxdepth: 1
+  :caption: Table of Contents
 
-   _pages/install_python.rst
-   _pages/things_to_know.rst
-   _pages/FAQ.rst
-   _pages/environments_and_kernels.rst
-   _pages/numerical_core.rst
-   _pages/advanced_numerical.rst
+  _pages/install_python.rst
+  _pages/plotting.rst
+  _pages/numerical_core.rst
+  _pages/advanced_numerical.rst
+  _pages/environments_and_kernels.rst
+  _pages/FAQ.rst
+
 
 Indices and tables
 ==================
