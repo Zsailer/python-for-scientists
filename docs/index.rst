@@ -7,6 +7,11 @@ Python for Scientists
 =====================
 
 
+    *"For many scientists, the open-source nature of Python is intimidating. They would like to use something like Jupyter notebooks, but they don't know where to begin. Proprietary software like Matlab and Mathematica comes prepackaged and ready out-of-the-box. We wanted to provide a quick guide to getting started in Python."*
+
+    - Zach Sailer
+
+
 If you're visiting this page, you're probably a scientist who is trying to install Python. You're probably new to Python. Perhaps your collaborators sent you a Jupyter notebook (whatever that is). Or you're looking for a free, open-source alternative to Matlab/Mathematica.
 
 This guide describes a path-of-least-resistance to setting up Python for science. This means installing Python, Jupyter notebooks, and key scientific libraries.
@@ -17,7 +22,7 @@ If you have topics you'd like covered, suggest them here. If you run into issues
 
 .. toctree::
    :maxdepth: 1
-   :caption: Contents:
+   :caption: Table of Contents
 
    _pages/install_python.rst
    _pages/things_to_know.rst

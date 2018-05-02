@@ -53,7 +53,7 @@ To use conda, call ``conda install some_package_name``. We'll use this command t
 2. Install Jupyter Notebooks.
 -----------------------------
 
-Using our *conda* tool, install the Jupyter Notebook.
+Using your new *conda* tool, install the Jupyter Notebook.
 
 
 .. image:: ../../_imgs/notebook.png
@@ -71,7 +71,7 @@ Using our *conda* tool, install the Jupyter Notebook.
 3. Install key scientific packages
 ----------------------------------
 
-Before we starting using the Jupyter notebooks, we likely want Python's plotting library, Matplotlib, and key scientific programming packages like Numpy and SciPy. For more scientific packages, see this list_.
+Before we use the Jupyter notebooks, we'll want Python's main plotting library, Matplotlib, and key scientific programming packages like Numpy and SciPy. For even more scientific packages, see this list_.
 
 .. code-block:: bash
 
@@ -85,7 +85,10 @@ Before we starting using the Jupyter notebooks, we likely want Python's plotting
 4. Run you first Jupyter Notebook.
 ----------------------------------
 
-Run you first Jupyter notebook
+The default entry point to Jupyter Notebooks is through a terminal. Call
+
+
+.. code-block::
 
 .. _`even if you have Python already installed`:
 
