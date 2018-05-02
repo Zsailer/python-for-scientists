@@ -9,14 +9,14 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="168.02281mm"
-   height="61.510044mm"
-   viewBox="0 0 168.02281 61.510044"
+   width="141.04565mm"
+   height="64.184792mm"
+   viewBox="0 0 141.04565 64.184791"
    version="1.1"
    id="svg8"
    sodipodi:docname="terminal.svg"
    inkscape:version="0.92.2 5c3e80d, 2017-08-06"
-   inkscape:export-filename="/Users/zsailer/github/python-setup-for-scientists/docs/_imgs/terminal.png"
+   inkscape:export-filename="/Users/zsailer/github/python-setup-for-scientists/docs/_imgs/jupyter-terminal.png"
    inkscape:export-xdpi="300"
    inkscape:export-ydpi="300">
   <defs
@@ -41,8 +41,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.4142136"
-     inkscape:cx="356.70177"
-     inkscape:cy="2.749896"
+     inkscape:cx="18.012919"
+     inkscape:cy="37.352494"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -72,7 +72,7 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(-1.5497017,8.9491445)">
+     transform="translate(-57.485167,2.4686175)">
     <g
        id="g1000"
        transform="matrix(0.8669282,0,0,0.86644837,-29.712548,-11.105215)"
@@ -150,8 +150,8 @@
    id="flowSpan1021">[I 11:48:27.642 NotebookApp]</flowSpan> Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).</flowPara><flowPara
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.66666698px;font-family:Monaco;-inkscape-font-specification:Monaco"
          id="flowPara955"><flowSpan
-   style="fill:#00ff00;fill-opacity:1"
-   id="flowSpan1023">[C 11:48:27.645 NotebookApp]</flowSpan>    </flowPara><flowPara
+           style="fill:#00ff00;fill-opacity:1"
+           id="flowSpan1023">[C 11:48:27.645 NotebookApp]</flowSpan></flowPara><flowPara
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.66666698px;font-family:Monaco;-inkscape-font-specification:Monaco"
          id="flowPara957" /><flowPara
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.66666698px;font-family:Monaco;-inkscape-font-specification:Monaco"

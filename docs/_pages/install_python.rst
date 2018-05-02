@@ -1,3 +1,5 @@
+.. _`four steps`:
+
 4 steps to start
 ================
 
@@ -15,11 +17,11 @@
   :scale: 17 %
   :align: right
 
-We recommend Miniconda_ (`even if you have Python already installed`_).
+We recommend Miniconda_ (:ref:`even if you have Python already installed <faq1>`).
 
 .. _Miniconda: https://conda.io/miniconda.html
 
-Miniconda installers contains Python and the Conda_ package manager. Installers_ exist for Windows, Mac, and Linux. Download the installer that matches your operating system and follow the directions to install miniconda on your computer. (`Should I install Python 2 or 3`_?)
+Miniconda installers contains Python and the Conda_ package manager. Installers_ exist for Windows, Mac, and Linux. Download the installer that matches your operating system and follow the directions to install miniconda on your computer. (:ref:`Should I install Python 2 or 3`)
 
 Once installed, Miniconda becomes a folder that contains everything Python and Conda related. If anything ever goes wrong with your Python setup, you can always remove the Miniconda folder and start over.
 
@@ -47,16 +49,6 @@ To install new Python packages using Conda, you'll want to need use a `command l
 
 .. image:: ../_imgs/terminal.png
   :scale: 50%
-
-
-Using your new *conda* tool, install the Jupyter Notebook. The commands looks like:
-
-
-.. code-block:: bash
-
-  > conda install notebook
-
-
 
 In general, you'll type ``conda install some_package_name`` to install new packages. If a package cannot be installed from conda, try using **pip**.
 
@@ -92,18 +84,14 @@ Before you run a Jupyter notebook, you'll want to install a few core scientific 
 
   > conda install numpy scipy matplotlib
 
-A more comprehensible list of Python packages for scientific computing can be found here_.
-
-.. _here: advanced_numerical.html
-
-
+A more comprehensive list of Python packages for scientific computing can be found :ref:`here <numerical_packages>`.
 
 .. _`Run the Jupyter Notebook`:
 
 
 4. Run the Jupyter Notebook
 ---------------------------
-Open Jupyter Notebooks using a command line interface (why_?). Run the following command on the command line:
+Open Jupyter Notebooks using a command line interface (:ref:`why <why do I need to to launch Jupyter from a command line>`?). Run the following command on the command line:
 
 .. code-block:: bash
 

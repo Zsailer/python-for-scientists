@@ -1,3 +1,5 @@
+.. _`numerical_packages`:
+
 Advanced Numerical Packages
 ===========================
 

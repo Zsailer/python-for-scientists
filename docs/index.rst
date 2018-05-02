@@ -7,10 +7,10 @@ Python for Scientists
 =====================
 
 
-    *"For many scientists, the open-source nature of Python is intimidating. They would like to use something like Jupyter notebooks, but they don't know where to begin. Proprietary software like Matlab and Mathematica is pre-packaged and ready out-of-the-box. We wanted to provide a quick guide to getting started with scientific Python."*  ---Zach Sailer
+    *"For many scientists, the open-source nature of Python is intimidating. They want to use Python and Jupyter notebooks, but they don't know how to begin. Proprietary software like Matlab and Mathematica is pre-packaged and ready out-of-the-box, but Python seems more complicated. We wanted to provide a quick guide to help scientists get started."*---Zach Sailer
 
 
-This page describes `4 steps to starting Python`_ for **scientists**:
+**This page lists** :ref:`4 steps to starting Python <four steps>` **for scientists**:
 
 1. Install Python using Miniconda
 2. Install the Jupyter Notebook
@@ -21,25 +21,6 @@ This page describes `4 steps to starting Python`_ for **scientists**:
 .. image:: _imgs/notebook.png
   :scale: 60%
   :align: center
-
-
-.. _`4 steps to starting python`: _pages/install_python.html
-
-
-**If you find this helpful,** let us know by visiting this page and giving it a "`thumbs up`_".
-
-.. image:: _imgs/thumbs-up.png
-  :width: 500 px
-  :align: center
-
-.. _`thumbs up`: https://github.com/Zsailer/python-setup-for-scientists/issues/4
-
-**Please feel free to open an** issue_ **if:**
-
-.. _issue: https://github.com/Zsailer/python-setup-for-scientists/issues/new
-
-1. You have a topic you'd like us to add or,
-2. You find problems in our instructions.
 
 
 .. toctree::
@@ -54,9 +35,21 @@ This page describes `4 steps to starting Python`_ for **scientists**:
   _pages/FAQ.rst
 
 
-Indices and tables
-==================
+Was this page helpful?
+----------------------
 
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
+Let us know by visiting `this page`_ and giving it a "thumbs up".
+
+.. image:: _imgs/thumbs-up.png
+  :width: 500 px
+  :align: center
+  :target: https://github.com/Zsailer/python-setup-for-scientists/issues/4
+
+.. _`this page`: https://github.com/Zsailer/python-setup-for-scientists/issues/4
+
+**Please feel free to open an** issue_ **if:**
+
+.. _issue: https://github.com/Zsailer/python-setup-for-scientists/issues/new
+
+1. You have a topic you'd like us to add or,
+2. You find problems in our instructions.

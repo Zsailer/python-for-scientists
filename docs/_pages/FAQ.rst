@@ -13,7 +13,7 @@ Should I install Python 2 or 3?
 
 Python 3. Most scientific Python libraries now support Python 3 and it's a better language overall. Do not install Python 2 unless you absolutely must use it for some core dependency in your daily work.
 
-.. _`even if you have Python already installed`:
+.. _faq1:
 
 What if my operating system already comes with Python installed?
 ----------------------------------------------------------------
@@ -31,7 +31,7 @@ What is the difference between conda and pip?
 
 conda is a younger than pip, so many Python packages don't have conda-recipes but exist on PyPI.
 
-.. _why:
+.. _`why do I need to to launch Jupyter from a command line`:
 
 Why do I need to launch Jupyter from the command line?
 ------------------------------------------------------
