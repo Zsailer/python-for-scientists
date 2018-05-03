@@ -8,7 +8,7 @@ Python for Scientists
 
 
 
-    *"For many scientists, the open-source nature of Python is intimidating. They'd like to use Python and Jupyter notebooks, but they don't know how to begin. Proprietary software like Matlab and Mathematica comes pre-packaged and ready out-of-the-box, but Python is less straitforward. We wanted to provide a quick guide to help scientists get started."*---Zach Sailer
+    *For many scientists, the open-source nature of Python is intimidating. They'd like to use Python and Jupyter notebooks, but they don't know how to begin. Proprietary software like Matlab and Mathematica comes pre-packaged and ready out-of-the-box, but Python is less straightforward. Our goal is to provide a quick guide to help scientists get started.*
 
 
 :ref:`4 steps to Python <four steps>` **for scientists**:

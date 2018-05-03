@@ -38,7 +38,7 @@ Conda will be your main tool for installing Python packages moving forward. It i
 2. Install the Jupyter Notebook.
 --------------------------------
 
-To install new Python packages using Conda, you'll need to a `command line`_.
+To install new Python packages using Conda, you'll need to use a `command line`_.
 
 .. _`command line`: https://en.wikipedia.org/wiki/Command-line_interface
 
@@ -50,7 +50,7 @@ To install new Python packages using Conda, you'll need to a `command line`_.
 .. image:: ../_imgs/terminal.png
   :scale: 50%
 
-In general, you'll type ``conda install some_package_name`` to install new packages. If a conda cannot find the package, try using **pip**.
+In general, you'll type ``conda install some_package_name`` to install new packages. If conda cannot find the package, try using **pip**.
 
 .. code-block:: bash
 
@@ -71,7 +71,7 @@ In general, you'll type ``conda install some_package_name`` to install new packa
   :align: right
 
 
-Before you run Jupyter, you'll want to install some core scientific packages. These packages allow you to awesome notebooks like the one show to the right.
+Before you run Jupyter, you'll want to install some core scientific packages. These packages allow you to produce awesome notebooks like the one shown to the right.
 
 - Matplotlib_ is Python's most popular plotting package.
 - Numpy_ and SciPy_ are Python's fundamental packages for scientific computing.
