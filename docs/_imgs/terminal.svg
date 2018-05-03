@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="141.04565mm"
+   height="64.184792mm"
+   viewBox="0 0 141.04565 64.184791"
+   version="1.1"
+   id="svg8"
+   sodipodi:docname="terminal.svg"
+   inkscape:version="0.92.2 5c3e80d, 2017-08-06"
+   inkscape:export-filename="/Users/zsailer/github/python-setup-for-scientists/docs/_imgs/jupyter-terminal.png"
+   inkscape:export-xdpi="300"
+   inkscape:export-ydpi="300">
+  <defs
+     id="defs2">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath852">
+      <rect
+         style="opacity:0.98999999;vector-effect:none;fill:#fffeff;fill-opacity:1;stroke:none;stroke-width:0.70555556;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:0.70555555, 0.70555555;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect854"
+         width="118.8735"
+         height="70.492554"
+         x="16.063988"
+         y="12.383927" />
+    </clipPath>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.4142136"
+     inkscape:cx="18.012919"
+     inkscape:cy="37.352494"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:snap-global="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1058"
+     inkscape:window-x="2"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-57.485167,2.4686175)">
+    <g
+       id="g1000"
+       transform="matrix(0.8669282,0,0,0.86644837,-29.712548,-11.105215)"
+       style="stroke-width:1.15381742">
+      <rect
+         y="10.985418"
+         x="101.6"
+         height="72.042824"
+         width="160.62601"
+         id="rect968"
+         style="opacity:0.98999999;vector-effect:none;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:2.0352056;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path970"
+         d="M 100.62747,14.425002 H 263.27828"
+         style="fill:none;stroke:#d4d4d4;stroke-width:0.40704116;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         sodipodi:nodetypes="cc" />
+      <circle
+         r="1.3096206"
+         cy="12.218948"
+         cx="103.46004"
+         id="path972"
+         style="opacity:0.98999999;vector-effect:none;fill:#d6d6d6;fill-opacity:1;stroke:none;stroke-width:0.40704116;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <circle
+         r="1.3096206"
+         cy="12.218948"
+         cx="107.34212"
+         id="path972-9"
+         style="opacity:0.98999999;vector-effect:none;fill:#d6d6d6;fill-opacity:1;stroke:none;stroke-width:0.40704116;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <circle
+         r="1.3096206"
+         cy="12.218948"
+         cx="111.22421"
+         id="path972-6"
+         style="opacity:0.98999999;vector-effect:none;fill:#d6d6d6;fill-opacity:1;stroke:none;stroke-width:0.40704116;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    </g>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot1002"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.66666698px;line-height:1.25;font-family:Monaco;-inkscape-font-specification:'Monaco Bold';text-align:start;text-anchor:start;opacity:0.98999999;vector-effect:none;fill:#d4d4d4;fill-opacity:1;stroke:none;stroke-width:1.33333337;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       transform="matrix(0.26458333,0,0,0.26458333,-54.417547,-28.243936)"><flowRegion
+         id="flowRegion1004"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.66666698px;font-family:Monaco;-inkscape-font-specification:'Monaco Bold';fill:#d4d4d4;fill-opacity:1;stroke:none"><rect
+           id="rect1006"
+           width="533.09039"
+           height="280.43353"
+           x="427"
+           y="117.51969"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.66666698px;font-family:Monaco;-inkscape-font-specification:'Monaco Bold';fill:#d4d4d4;fill-opacity:1;stroke:none" /></flowRegion><flowPara
+         id="flowPara1008"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.33333397px;font-family:Monaco;-inkscape-font-specification:Monaco">&gt; jupyter notebook</flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.33333397px;font-family:Monaco;-inkscape-font-specification:Monaco"
+         id="flowPara969" /><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.66666698px;font-family:Monaco;-inkscape-font-specification:Monaco"
+         id="flowPara967" /><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.66666698px;font-family:Monaco;-inkscape-font-specification:Monaco"
+         id="flowPara931"><flowSpan
+   style="fill:#00ff00;fill-opacity:1"
+   id="flowSpan973">[I 11:48:27.641 NotebookApp]</flowSpan> Serving notebooks from local directory: /home/</flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.66666698px;font-family:Monaco;-inkscape-font-specification:Monaco"
+         id="flowPara935"><flowSpan
+   style="fill:#00ff00;fill-opacity:1"
+   id="flowSpan995">[I 11:48:27.641 NotebookApp]</flowSpan> 0 active kernels</flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.66666698px;font-family:Monaco;-inkscape-font-specification:Monaco"
+         id="flowPara937"><flowSpan
+   style="fill:#00ff00;fill-opacity:1"
+   id="flowSpan1017">[I 11:48:27.641 NotebookApp]</flowSpan> The Jupyter Notebook is running at:</flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.66666698px;font-family:Monaco;-inkscape-font-specification:Monaco"
+         id="flowPara939"><flowSpan
+   style="fill:#00ff00;fill-opacity:1"
+   id="flowSpan1019">[I 11:48:27.642 NotebookApp]</flowSpan> http://localhost:8888/?token=&lt;random token&gt;? </flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.66666698px;font-family:Monaco;-inkscape-font-specification:Monaco"
+         id="flowPara963"><flowSpan
+   style="fill:#00ff00;fill-opacity:1"
+   id="flowSpan1021">[I 11:48:27.642 NotebookApp]</flowSpan> Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).</flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.66666698px;font-family:Monaco;-inkscape-font-specification:Monaco"
+         id="flowPara955"><flowSpan
+           style="fill:#00ff00;fill-opacity:1"
+           id="flowSpan1023">[C 11:48:27.645 NotebookApp]</flowSpan></flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.66666698px;font-family:Monaco;-inkscape-font-specification:Monaco"
+         id="flowPara957" /><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.66666698px;font-family:Monaco;-inkscape-font-specification:Monaco"
+         id="flowPara965">     Copy/paste this URL into your browser when you connect for the first time,    </flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.66666698px;font-family:Monaco;-inkscape-font-specification:Monaco"
+         id="flowPara959">     to login with a token:        </flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.66666698px;font-family:Monaco;-inkscape-font-specification:Monaco"
+         id="flowPara961">          http://localhost:8888/?token=&lt;random token&gt;</flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.66666698px;font-family:Monaco;-inkscape-font-specification:Monaco"
+         id="flowPara971"><flowSpan
+   style="fill:#00ff00;fill-opacity:1"
+   id="flowSpan1025">[I 11:48:27.869 NotebookApp]</flowSpan> Accepting one-time-token-authenticated connection from ::1</flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.66666698px;font-family:Monaco;-inkscape-font-specification:Monaco"
+         id="flowPara941" /><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.66666698px;font-family:Monaco;-inkscape-font-specification:Monaco"
+         id="flowPara943" /><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.66666698px;font-family:Monaco;-inkscape-font-specification:Monaco"
+         id="flowPara945" /><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.66666698px;font-family:Monaco;-inkscape-font-specification:Monaco"
+         id="flowPara947" /><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.66666698px;font-family:Monaco;-inkscape-font-specification:Monaco"
+         id="flowPara949" /><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.66666698px;font-family:Monaco;-inkscape-font-specification:Monaco"
+         id="flowPara951" /><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.66666698px;font-family:Monaco;-inkscape-font-specification:Monaco"
+         id="flowPara953" /></flowRoot>    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.52777767px;line-height:1.25;font-family:Monaco;-inkscape-font-specification:'Monaco Bold';text-align:start;text-anchor:start;opacity:0.98999999;vector-effect:none;fill:#d4d4d4;fill-opacity:1;stroke:none;stroke-width:0.35277778;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       x="113.77083"
+       y="33.475002"
+       id="text1012"><tspan
+         sodipodi:role="line"
+         id="tspan1010"
+         x="113.77083"
+         y="36.738197"
+         style="stroke-width:0.35277778" /></text>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot1046"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:42.66666794px;line-height:1.25;font-family:xkcd;-inkscape-font-specification:xkcd;text-align:start;text-anchor:start;opacity:0.98999999;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.33333337;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       transform="scale(0.26458333)"><flowRegion
+         id="flowRegion1048"><rect
+           id="rect1050"
+           width="943.28046"
+           height="554.3717"
+           x="-131.52187"
+           y="-222.3974" /></flowRegion><flowPara
+         id="flowPara1052" /></flowRoot>  </g>
+</svg>

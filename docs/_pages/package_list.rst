@@ -1,5 +1,0 @@
-Scientic Packages
-=================
-
-Numerical package
------------------
