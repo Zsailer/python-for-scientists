@@ -5,6 +5,13 @@ Frequently Asked Questions
 How do I upgrade a python package that is already installed?
 ------------------------------------------------------------
 
+Sometimes you need to upgrade to a new version of a package that is already installed in your python environment. 
+
+To upgrade a package in your python environment, just use conda! For example to upgrade the scipy package liberary run the following:
+
+::
+
+    conda update scipy
 
 .. _`Should I install Python 2 or 3`:
 
@@ -36,7 +43,7 @@ conda is a younger than pip, so many Python packages don't have conda-recipes bu
 Why do I need to launch Jupyter from the command line?
 ------------------------------------------------------
 
-The answer is a bit complicated. Jupyter is web application frontend (written in Javascript) that executes code from a Python server backend. The command line is used to launch the the server backend and open internet ports for the frontend. This frontend is rendered using a browser (like Google Chrome or Firefox). The command line interface makes this process transparent. You see the server start, then a browser window opens. The command line also provides flexibility for advanced users.
+The answer is a bit complicated. Jupyter is web application frontend (written in Javascript) that executes code from a Python server backend. The command line is used to launch the server backend and open internet ports for the frontend. This frontend is rendered using a browser (like Google Chrome or Firefox). The command line interface makes this process transparent. You see the server start, then a browser window opens. The command line also provides flexibility for advanced users.
 
 If you'd like a Jupyter-like Desktop application, it exists. It's called **nteract**. You can open Jupyter notebooks without the command-line. `It can be found here`_!
 

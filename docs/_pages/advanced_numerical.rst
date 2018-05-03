@@ -13,7 +13,7 @@ scikit-learn is a powerful Python library for machine learning. It contains a wi
 To install this library in your Python environment simply run:
 ::
 
-    pip install scikit-learn
+    conda install scikit-learn
 
 scikit-image
 ------------
@@ -23,7 +23,7 @@ scikit-image is a very useful Python library for handling image data. It's a pow
 To install this library in your Python environment simply run:
 ::
 
-    pip install scikit-image
+    conda install scikit-image
 
 
 LmFit
@@ -34,7 +34,7 @@ LmFit is a great tool for non-linear curve fitting. It uses SciPy under-the-hood
 To install this library in your Python environment simply run:
 ::
 
-    pip install lmfit
+    conda install lmfit
 
 Networkx
 --------
@@ -44,7 +44,17 @@ Networkx offers a simple interface for managing network data. It introduces a Gr
 To install this library in your Python environment simply run:
 ::
 
-    pip install networkx
+    conda install networkx
+
+Biopython
+--------
+
+Biopython is a libary built for biological computation. It contains a wide array of bioinformatics tools for handling sequence data, parsing files, searching databases, performing poulation genetics calculations, and much more. 
+
+To install this library in your Python environment simply run:
+::
+
+    conda install biopython
 
 emcee
 -----
@@ -54,7 +64,7 @@ emcee is a Python library for efficiently estimating probability distributions. 
 To install this library in your Python environment simply run:
 ::
 
-    pip install emcee
+    conda install emcee
 
 PyMC3
 ----
@@ -64,7 +74,7 @@ PyMC3 is another useful tool for implementing Bayesian inference in your analyse
 To install this library in your Python environment simply run:
 ::
 
-    pip install pymc3
+    conda install pymc3
 
 StatsModels
 -----------
@@ -74,7 +84,7 @@ StatsModels is a versatile statistical environment for Python. It allows users t
 To install this library in your Python environment simply run:
 ::
 
-    pip install statsmodels
+    conda install statsmodels
 
 Astropy
 -------
@@ -84,7 +94,7 @@ If you're an astrophysicist looking to use Python for your analyses, Astropy is 
 To install this library in your Python environment simply run:
 ::
 
-    pip install astropy
+    conda install astropy
 
 Cython
 ------
@@ -94,7 +104,7 @@ Cython is another library aimed at speeding up Python code. Users can write Pyth
 To install this library in your Python environment simply run:
 ::
 
-    pip install cython
+    conda install cython
 
 Numba
 -----
@@ -104,7 +114,7 @@ Numba is a library designed to help you speed up your Python calculations. It ac
 To install this library in your Python environment simply run:
 ::
 
-    pip install numba
+    conda install numba
 
 
 SymPy
@@ -115,7 +125,7 @@ SymPy is a library for doing symbolic math. You can compute integrals, derivativ
 To install this library in your Python environment simply run:
 ::
 
-    pip install sympy
+    conda install sympy
 
 TensorFlow
 ----------
@@ -125,7 +135,7 @@ TensorFlow is a versatile library designed for implementations of deep learning 
 To install this library in your Python environment simply run:
 ::
 
-    pip install tensorflow
+    conda install tensorflow
 
 Theano
 ----------
@@ -135,7 +145,7 @@ Theano is a library geared toward efficient computations on multidimensional arr
 To install this library in your Python environment simply run:
 ::
 
-    pip install theano
+    conda install theano
 
 Keras
 ----------
@@ -145,4 +155,4 @@ Keras is another Python library for machine learning using neural networks. It i
 To install this library in your Python environment simply run:
 ::
 
-    pip install keras
+    conda install keras
