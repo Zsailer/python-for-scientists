@@ -13,7 +13,7 @@ To install NumPy in your python environment simply run:
 
 ::
 
-    pip install numpy
+    conda install numpy
 
 
 SciPy
@@ -25,7 +25,7 @@ To install SciPy in your python environment simply run:
 
 ::
 
-    pip install scipy
+    conda install scipy
 
 
 Pandas
@@ -37,4 +37,4 @@ To install pandas in your python environment simply run:
 
 ::
 
-    pip install pandas
+    conda install pandas

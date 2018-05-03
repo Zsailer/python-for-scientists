@@ -7,11 +7,11 @@ How do I upgrade a python package that is already installed?
 
 Sometimes you need to upgrade to a new version of a package that is already installed in your python environment. 
 
-To upgrade a package in your python environment, just use pip! For example to upgrade the pip package itself run the following:
+To upgrade a package in your python environment, just use conda! For example to upgrade the scipy package liberary run the following:
 
 ::
 
-    pip install --upgrade pip
+    conda update scipy
 
 .. _`Should I install Python 2 or 3`:
 
