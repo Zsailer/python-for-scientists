@@ -17,10 +17,11 @@
 
 Let us know! Give us a "thumbs up" on [this open issue](https://github.com/Zsailer/python-for-scientists/issues/4). Thanks!
 
-![](docs/_imgs/thumbs-up.png)
+
+<img src="docs/_imgs/thumbs-up.png" width="500px">
 
 ## Contributing
 
 We'd love to hear from you. If you have questions or ideas for the page, don't hesitate to open an [issue](https://github.com/Zsailer/python-for-scientists/issues/new).
 
-If you'd like to contribute, open a PR. If you don't know how, check out this [one page guide](https://github.com/Zsailer/guide-to-working-as-team-on-github)!
+If you'd like to contribute, open a PR. If you don't know how, check out this [one page guide tp contributing](https://github.com/Zsailer/guide-to-working-as-team-on-github)!
