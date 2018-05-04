@@ -3,7 +3,25 @@
 Advanced Scientific Packages
 ============================
 
-This page introduces you to a set of powerful Python libraries for advanced numerical computing. Python has libraries for machine learning, model fitting, statistics, network calculations, and much more!
+This page introduces you to a set of powerful Python libraries for advanced numerical computing. Python has libraries for machine learning, model fitting, statistics, network calculations, and much more! Here we highlight the following important scientific libraries:
+
+- :ref:`scikit-learn` --- diverse machine learning tools
+- :ref:`scikit-image` --- image analysis
+- :ref:`LmFit` --- nonlinear fitting
+- :ref:`Networkx` --- network analysis
+- :ref:`Biopython` --- bioinformatics tools
+- :ref:`emcee` --- Bayesian MCMC
+- :ref:`PyMC3` --- Probabilistic programming
+- :ref:`StatsModels` --- statistics
+- :ref:`Astropy` ---astrophysics tools
+- :ref:`Cython` --- simple C extensions
+- :ref:`Numba` --- just in time compiling for Python
+- :ref:`SymPy` --- executes symbolic math operations
+- :ref:`TensorFlow` --- deep learning
+- :ref:`Theano` --- deep learning
+- :ref:`Keras` --- deep learning
+
+.. _`scikit-learn`:
 
 scikit-learn
 ------------
@@ -14,6 +32,8 @@ To install this library in your Python environment simply run:
 ::
 
     conda install scikit-learn
+
+.. _`scikit-image`:
 
 scikit-image
 ------------
@@ -26,6 +46,8 @@ To install this library in your Python environment simply run:
     conda install scikit-image
 
 
+.. _`LmFit`:
+
 LmFit
 -----
 
@@ -35,6 +57,8 @@ To install this library in your Python environment simply run:
 ::
 
     conda install lmfit
+
+.. _`Networkx`:
 
 Networkx
 --------
@@ -46,15 +70,20 @@ To install this library in your Python environment simply run:
 
     conda install networkx
 
+
+.. _`Biopython`:
+
 Biopython
 --------
 
-Biopython is a libary built for biological computation. It contains a wide array of bioinformatics tools for handling sequence data, parsing files, searching databases, performing poulation genetics calculations, and much more. 
+Biopython is a libary built for biological computation. It contains a wide array of bioinformatics tools for handling sequence data, parsing files, searching databases, performing poulation genetics calculations, and much more.
 
 To install this library in your Python environment simply run:
 ::
 
     conda install biopython
+
+.. _`emcee`:
 
 emcee
 -----
@@ -66,6 +95,8 @@ To install this library in your Python environment simply run:
 
     conda install emcee
 
+.. _`PyMC3`:
+
 PyMC3
 ----
 
@@ -75,6 +106,8 @@ To install this library in your Python environment simply run:
 ::
 
     conda install pymc3
+
+.. _`StatsModels`:
 
 StatsModels
 -----------
@@ -86,6 +119,10 @@ To install this library in your Python environment simply run:
 
     conda install statsmodels
 
+
+.. _`Astropy`:
+
+
 Astropy
 -------
 
@@ -96,6 +133,10 @@ To install this library in your Python environment simply run:
 
     conda install astropy
 
+
+.. _`Cython`:
+
+
 Cython
 ------
 
@@ -105,6 +146,9 @@ To install this library in your Python environment simply run:
 ::
 
     conda install cython
+
+
+.. _`Numba`:
 
 Numba
 -----
@@ -117,6 +161,8 @@ To install this library in your Python environment simply run:
     conda install numba
 
 
+.. _`SymPy`:
+
 SymPy
 -----
 
@@ -126,6 +172,9 @@ To install this library in your Python environment simply run:
 ::
 
     conda install sympy
+
+.. _`TensorFlow`:
+
 
 TensorFlow
 ----------
@@ -137,8 +186,12 @@ To install this library in your Python environment simply run:
 
     conda install tensorflow
 
+
+.. _`Theano`:
+
+
 Theano
-----------
+------
 
 Theano is a library geared toward efficient computations on multidimensional arrays. It also supports implementation of code on GPUs. Theano is useful for implementing deep learning in Python.
 
@@ -147,8 +200,11 @@ To install this library in your Python environment simply run:
 
     conda install theano
 
+
+.. _`Keras`:
+
 Keras
-----------
+-----
 
 Keras is another Python library for machine learning using neural networks. It is capable of interacting with other machine learning libraries, including TensorFlow and Theano. Keras runs on CPUs and GPUs and is designed for fast implementation of neural networks.
 
