@@ -3,7 +3,9 @@
 Advanced Scientific Packages
 ============================
 
-This page introduces you to a set of powerful Python libraries for advanced numerical computing. Python has libraries for machine learning, model fitting, statistics, network calculations, and much more!
+This page introduces you to a set of powerful Python libraries for advanced numerical computing. Python has libraries for machine learning, model fitting, statistics, network calculations, and much more! Here we highlight the following important scientific libraries:
+
+*scikit-learn (diverse machine learning tools), scikit-image (image analysis), LmFit (nonlinear fitting), Networkx (network analysis), Biopython (bioinformatics tools), emcee (Bayesian MCMC), PyMC3 (Probabilistic programming), StatsModels (statistics), Astropy (astrophysics tools), Cython (easy C extensions), Numba (just in time compiling for Python), SymPy (symbolic math), TensorFlow (deep learning), Theano (deep learning), and Keras (deep learning).* 
 
 scikit-learn
 ------------
