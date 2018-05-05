@@ -21,13 +21,16 @@
 
 project = 'python-for-scientists'
 copyright = '2018, Zachary Sailer'
-author = 'Zachary Sailer'
+author = 'Zachary Sailer, Luke Wheeler, Jeremy Anderson, and Joseph Harman'
 
 # The short X.Y version
 version = ''
 # The full version, including alpha/beta/rc tags
 release = '0.1'
 
+# Add custom css.
+def setup(app):
+    app.add_stylesheet('css/custom.css')  # may also be an URL
 
 # -- General configuration ---------------------------------------------------
 
@@ -41,6 +44,7 @@ release = '0.1'
 extensions = [
     'sphinx.ext.mathjax',
     'sphinx.ext.githubpages',
+    'sphinx_gallery.gen_gallery',
 ]
 
 # Add any paths that contain templates here, relative to this directory.
@@ -158,3 +162,14 @@ texinfo_documents = [
 
 
 # -- Extension configuration -------------------------------------------------
+
+# -- Sphinx gallery extension settings.
+sphinx_gallery_conf = {
+     # path to your examples scripts
+     'examples_dirs': '../examples',
+     # path where to save gallery generated examples
+     'gallery_dirs': 'auto_examples',
+     # directory where function granular galleries are stored
+     'backreferences_dir'  : 'gen_modules/backreferences',
+     'doc_module': ('sphinx_gallery', 'matplotlib', 'altair'),
+}
