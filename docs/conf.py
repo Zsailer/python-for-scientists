@@ -168,8 +168,6 @@ sphinx_gallery_conf = {
      # path to your examples scripts
      'examples_dirs': '../examples',
      # path where to save gallery generated examples
-     'gallery_dirs': 'auto_examples',
-     # directory where function granular galleries are stored
-     'backreferences_dir'  : 'gen_modules/backreferences',
-     'doc_module': ('sphinx_gallery', 'matplotlib', 'altair'),
+     'gallery_dirs': '_examples',
+     'backreferences_dir': False
 }

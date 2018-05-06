@@ -1,17 +1,17 @@
 
 
-.. _sphx_glr_auto_examples_plot_mpl_bar.py:
+.. _sphx_glr__examples_plot_mpl_scatter.py:
 
 
-Bar Chart
-=========
+Scatter Chart
+=============
 
-Example bar chart.
-
-
+Example scatter chart
 
 
-.. image:: /auto_examples/images/sphx_glr_plot_mpl_bar_001.png
+
+
+.. image:: /_examples/images/sphx_glr_plot_mpl_scatter_001.png
     :align: center
 
 
@@ -30,7 +30,7 @@ Example bar chart.
     y = [3, 7, 2, 4, 6, 0, 2]
 
     # Add data a scatter points onto axes
-    ax.bar(x, y)
+    ax.scatter(x, y)
 
     # Name axes
     ax.set_xlabel('x')
@@ -39,7 +39,7 @@ Example bar chart.
     # Show figure.
     fig.show()
 
-**Total running time of the script:** ( 0 minutes  0.076 seconds)
+**Total running time of the script:** ( 0 minutes  0.024 seconds)
 
 
 
@@ -50,13 +50,13 @@ Example bar chart.
 
   .. container:: sphx-glr-download
 
-     :download:`Download Python source code: plot_mpl_bar.py <plot_mpl_bar.py>`
+     :download:`Download Python source code: plot_mpl_scatter.py <plot_mpl_scatter.py>`
 
 
 
   .. container:: sphx-glr-download
 
-     :download:`Download Jupyter notebook: plot_mpl_bar.ipynb <plot_mpl_bar.ipynb>`
+     :download:`Download Jupyter notebook: plot_mpl_scatter.ipynb <plot_mpl_scatter.ipynb>`
 
 
 .. only:: html

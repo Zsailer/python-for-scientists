@@ -5,6 +5,9 @@ Bar Chart
 Example bar chart.
 """
 import matplotlib.pyplot as plt
+import seaborn as sns
+
+sns.set()
 
 # Initialize a figure and axes object
 fig, ax = plt.subplots(figsize=(3,3))

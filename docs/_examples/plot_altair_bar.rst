@@ -1,6 +1,6 @@
 
 
-.. _sphx_glr_auto_examples_plot_altair_bar.py:
+.. _sphx_glr__examples_plot_altair_bar.py:
 
 
 Bar Chart
@@ -31,7 +31,7 @@ Example bar chart.
         y='b'
     )
 
-**Total running time of the script:** ( 0 minutes  0.168 seconds)
+**Total running time of the script:** ( 0 minutes  0.198 seconds)
 
 
 

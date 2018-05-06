@@ -1,11 +1,13 @@
 """
-Bar Chart
-=========
+Scatter Chart
+=============
 
-Example bar chart.
+Example scatter chart
 """
 import matplotlib.pyplot as plt
 import seaborn as sns
+
+sns.set()
 
 # Initialize a figure and axes object
 fig, ax = plt.subplots(figsize=(3,3))
@@ -15,7 +17,7 @@ x = [0, 1, 2, 3, 4, 5, 6]
 y = [3, 7, 2, 4, 6, 0, 2]
 
 # Add data a scatter points onto axes
-ax.bar(x, y)
+ax.scatter(x, y)
 
 # Name axes
 ax.set_xlabel('x')
