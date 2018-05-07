@@ -6,7 +6,7 @@ The `Python visualization landscape`_ is fairly diverse. We'll list of the few o
 .. _`Python visualization landscape`: https://speakerdeck.com/jakevdp/pythons-visualization-landscape-pycon-2017
 
 - :ref:`Matplotlib <matplotlib>` --- Python's most used plotting library.
-- :ref:`Seaborn <seaborn>` --- offers matplotlib aesthetics plotting functions for data science and better matplotlib aesthetics.
+- :ref:`Seaborn <seaborn>` --- Statistical plotting functions and better matplotlib aesthetics.
 - :ref:`Pandas.plot <pandas_plot>` --- Declarative plotting directly from a Pandas DataFrame.
 - :ref:`Altair <altair>` --- Declarative plotting powered by Vega.
 - :ref:`pdvega <pdvega>` --- Vega-lite plots from Pandas DataFrames.
@@ -18,7 +18,7 @@ Matplotlib
 
 "Matplotlib is a Python 2D plotting library which produces publication quality figures in a variety of hardcopy formats and interactive environments across platforms. Matplotlib can be used in Python scripts, the Python and IPython shells, the Jupyter notebook, web application servers, and four graphical user interface toolkits."
 
-Why all the negativity around Matplotlib. :ref:`Why? <faq matplotlib>`
+:ref:`Why all the negativity around Matplotlib? <faq matplotlib>`
 
 `Docs <https://matplotlib.org/>`_ | `Source <https://github.com/matplotlib/matplotlib>`_ | **Gallery**
 
