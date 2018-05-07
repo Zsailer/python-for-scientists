@@ -5,7 +5,7 @@ Frequently Asked Questions
 How do I upgrade a python package that is already installed?
 ------------------------------------------------------------
 
-Sometimes you need to upgrade to a new version of a package that is already installed in your python environment. 
+Sometimes you need to upgrade to a new version of a package that is already installed in your python environment.
 
 To upgrade a package in your python environment, just use conda! For example to upgrade the scipy package library run the following:
 
@@ -48,3 +48,9 @@ The answer is a bit complicated. Jupyter is web application frontend (written in
 If you'd like a Jupyter-like Desktop application, it exists. It's called **nteract**. You can open Jupyter notebooks without the command-line. `It can be found here`_!
 
 .. _`It can be found here`: https://nteract.io/
+
+
+.. _`faq matplotlib`:
+
+Why is Matplotlib a source of friction among computational scientists?
+----------------------------------------------------------------------
