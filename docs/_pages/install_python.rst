@@ -21,7 +21,7 @@ We recommend Miniconda_ (:ref:`even if you have Python already installed <faq1>`
 
 .. _Miniconda: https://conda.io/miniconda.html
 
-Miniconda installers contains Python and the Conda_ package manager. Installers_ exist for Windows, Mac, and Linux. Download the installer that matches your operating system and follow the directions to install miniconda on your computer. (:ref:`Should I install Python 2 or 3`)
+Miniconda installers contains Python and the Conda_ package manager. Installers_ exist for Windows, Mac, and Linux. Download the installer that matches your operating system and follow the directions to install miniconda on your computer. Except in very special circumstances, we recommend installing Python 3.  (:ref:`Why? <Should I install Python 2 or 3>`)
 
 Once installed, Miniconda becomes a folder that contains everything Python and Conda related. If anything ever goes wrong with your Python setup, you can always remove the Miniconda folder and start over.
 
