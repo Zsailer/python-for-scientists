@@ -144,6 +144,26 @@ Code examples
    :hidden:
 
    /_examples/plot_sns_scatter
+
+.. raw:: html
+
+    <div class="sphx-glr-thumbcontainer" tooltip="Example histrogram ">
+
+.. only:: html
+
+    .. figure:: /_examples/images/thumb/sphx_glr_plot_sns_hist_thumb.png
+
+        :ref:`sphx_glr__examples_plot_sns_hist.py`
+
+.. raw:: html
+
+    </div>
+
+
+.. toctree::
+   :hidden:
+
+   /_examples/plot_sns_hist
 .. raw:: html
 
     <div style='clear:both'></div>
