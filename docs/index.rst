@@ -27,7 +27,8 @@ Python for Scientists
   :caption: Setting up Scientific Python
 
   _pages/install_python.rst
-  _pages/environments_and_kernels.rst
+  _pages/environments.rst
+  _pages/kernels.rst
   _pages/FAQ.rst
 
 .. toctree::
