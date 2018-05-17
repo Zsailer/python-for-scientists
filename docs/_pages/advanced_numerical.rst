@@ -26,6 +26,11 @@ This page introduces you to a set of powerful Python libraries for advanced nume
 scikit-learn
 ------------
 
+.. image:: _imgs/logos/scikit-learn-logo.png
+  :width: 100 px
+  :align: left
+  :target: http://scikit-learn.org/stable/
+
 scikit-learn is a powerful Python library for machine learning. It contains a wide array of useful tools for classification, regression, clustering, dimensionality reduction, and much more. Implementations are available for most standard machine learning algorithms, such as Support Vector Machines and Decision Trees. If you're planning to do machine learning in Python, you'll want to install scikit-learn.
 
 To install this library in your Python environment simply run:
