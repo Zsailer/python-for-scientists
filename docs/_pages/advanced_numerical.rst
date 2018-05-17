@@ -74,7 +74,7 @@ To install this library in your Python environment simply run:
 .. _`Biopython`:
 
 Biopython
---------
+---------
 
 Biopython is a libary built for biological computation. It contains a wide array of bioinformatics tools for handling sequence data, parsing files, searching databases, performing poulation genetics calculations, and much more.
 
@@ -98,7 +98,7 @@ To install this library in your Python environment simply run:
 .. _`PyMC3`:
 
 PyMC3
-----
+-----
 
 PyMC3 is another useful tool for implementing Bayesian inference in your analyses. PyMC3 is a versatile probabilistic programming framework that allows users to define probabilistic models directly in Python. Under the hood it uses a variety of clever trickes to make computations faster.
 

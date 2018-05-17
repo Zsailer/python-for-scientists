@@ -141,6 +141,22 @@ Seaborn
 
     </div>
 
+.. -------------------- New Figure ---------------------
+
+.. raw:: html
+
+    <div class="sphx-glr-thumbcontainer" tooltip="Example Boxplot ">
+
+.. only:: html
+
+    .. figure:: /_examples/images/thumb/sphx_glr_plot_sns_boxplot_thumb.png
+
+        :ref:`sphx_glr__examples_plot_sns_boxplot.py`
+
+.. raw:: html
+
+    </div>
+
 
 .. -------------------- Add Figure above ---------------------
 
