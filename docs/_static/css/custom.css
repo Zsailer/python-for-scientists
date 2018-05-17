@@ -16,3 +16,15 @@
 .caption-text {
     text-align: center;
 }
+
+.terminal-window{
+    background: black;
+    color: white;
+    font-family:courier;
+    font-size:15px;
+    padding: 10px;
+    height: 300px;
+    width:500px;
+    overflow: hidden;
+    border-radius: 5px;
+}
