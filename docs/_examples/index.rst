@@ -197,13 +197,13 @@ Code examples
 
   .. container:: sphx-glr-download
 
-    :download:`Download all examples in Python source code: _examples_python.zip <//Users/zsailer/github/python-for-scientists/docs/_examples/_examples_python.zip>`
+    :download:`Download all examples in Python source code: _examples_python.zip <//home/lcwheeler/Documents/Independent_Projects/python-for-scientists/docs/_examples/_examples_python.zip>`
 
 
 
   .. container:: sphx-glr-download
 
-    :download:`Download all examples in Jupyter notebooks: _examples_jupyter.zip <//Users/zsailer/github/python-for-scientists/docs/_examples/_examples_jupyter.zip>`
+    :download:`Download all examples in Jupyter notebooks: _examples_jupyter.zip <//home/lcwheeler/Documents/Independent_Projects/python-for-scientists/docs/_examples/_examples_jupyter.zip>`
 
 
 .. only:: html
