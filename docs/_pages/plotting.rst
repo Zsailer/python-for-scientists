@@ -1,7 +1,7 @@
 Plotting Packages
 =================
 
-The `Python visualization landscape`_ is fairly diverse. We'll list of the few of the major plotting packages here:
+The `Python visualization landscape`_ is fairly diverse. We'll list a few of the major plotting packages here:
 
 .. _`Python visualization landscape`: https://speakerdeck.com/jakevdp/pythons-visualization-landscape-pycon-2017
 
@@ -27,7 +27,7 @@ Matplotlib
 .. toctree::
    :hidden:
 
-.. -------------------- New Figure ---------------------
+.. -------------------- New Figure mpl scatter ---------------------
 
 
 
@@ -46,7 +46,7 @@ Matplotlib
     </div>
 
 
-.. -------------------- New Figure ---------------------
+.. -------------------- New Figure mpl bar ---------------------
 
 .. raw:: html
 
@@ -62,6 +62,54 @@ Matplotlib
 
     </div>
 
+.. -------------------- New Figure mpl hist ---------------------
+
+.. raw:: html
+
+    <div class="sphx-glr-thumbcontainer" tooltip="Example Histogram ">
+
+.. only:: html
+
+    .. figure:: /_examples/images/thumb/sphx_glr_plot_mpl_histogram_thumb.png
+
+        :ref:`sphx_glr__examples_plot_mpl_histogram.py`
+
+.. raw:: html
+
+    </div>
+
+
+.. -------------------- New Figure mpl line---------------------
+
+.. raw:: html
+
+    <div class="sphx-glr-thumbcontainer" tooltip="Example Line chart ">
+
+.. only:: html
+
+    .. figure:: /_examples/images/thumb/sphx_glr_plot_mpl_line_thumb.png
+
+        :ref:`sphx_glr__examples_plot_mpl_line.py`
+
+.. raw:: html
+
+    </div>
+
+.. -------------------- New Figure mpl box---------------------
+
+.. raw:: html
+
+    <div class="sphx-glr-thumbcontainer" tooltip="Example Boxplot ">
+
+.. only:: html
+
+    .. figure:: /_examples/images/thumb/sphx_glr_plot_mpl_boxplot_thumb.png
+
+        :ref:`sphx_glr__examples_plot_mpl_boxplot.py`
+
+.. raw:: html
+
+    </div>
 
 .. -------------------- Past Figure above ---------------------
 
@@ -90,7 +138,7 @@ Seaborn
 .. toctree::
    :hidden:
 
-.. -------------------- New Figure ---------------------
+.. -------------------- New Figure sns scatter ---------------------
 
 
 
@@ -109,7 +157,7 @@ Seaborn
     </div>
 
 
-.. -------------------- New Figure ---------------------
+.. -------------------- New Figure sns bar ---------------------
 
 .. raw:: html
 
@@ -125,7 +173,7 @@ Seaborn
 
     </div>
 
-.. -------------------- New Figure ---------------------
+.. -------------------- New Figure sns hist ---------------------
 
 .. raw:: html
 
@@ -158,7 +206,7 @@ Seaborn
 Pandas.plot
 -----------
 
-Pandas provides a **ggplot** like API for creating plots from Pandas DataFrames.
+Pandas provides a **ggplot**-like API for creating plots from Pandas DataFrames.
 This module is built on top of Matplotlib.
 
 `Docs <https://pandas.pydata.org/pandas-docs/stable/visualization.html#basic-plotting-plot>`_ | `Source <https://github.com/pandas-dev/pandas>`_ | **Gallery**
@@ -169,7 +217,7 @@ This module is built on top of Matplotlib.
 .. toctree::
    :hidden:
 
-.. -------------------- New Figure ---------------------
+.. -------------------- New Figure pd scatter ---------------------
 
 
 
@@ -188,7 +236,7 @@ This module is built on top of Matplotlib.
     </div>
 
 
-.. -------------------- New Figure ---------------------
+.. -------------------- New Figure pd bar ---------------------
 
 .. raw:: html
 

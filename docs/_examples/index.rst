@@ -27,6 +27,26 @@ Code examples
 
 .. raw:: html
 
+    <div class="sphx-glr-thumbcontainer" tooltip="Example histogram. ">
+
+.. only:: html
+
+    .. figure:: /_examples/images/thumb/sphx_glr_plot_mpl_histogram_thumb.png
+
+        :ref:`sphx_glr__examples_plot_mpl_histogram.py`
+
+.. raw:: html
+
+    </div>
+
+
+.. toctree::
+   :hidden:
+
+   /_examples/plot_mpl_histogram
+
+.. raw:: html
+
     <div class="sphx-glr-thumbcontainer" tooltip="Example bar chart. ">
 
 .. only:: html
@@ -127,6 +147,46 @@ Code examples
 
 .. raw:: html
 
+    <div class="sphx-glr-thumbcontainer" tooltip="Example boxplot. ">
+
+.. only:: html
+
+    .. figure:: /_examples/images/thumb/sphx_glr_plot_mpl_boxplot_thumb.png
+
+        :ref:`sphx_glr__examples_plot_mpl_boxplot.py`
+
+.. raw:: html
+
+    </div>
+
+
+.. toctree::
+   :hidden:
+
+   /_examples/plot_mpl_boxplot
+
+.. raw:: html
+
+    <div class="sphx-glr-thumbcontainer" tooltip="Example bar chart. ">
+
+.. only:: html
+
+    .. figure:: /_examples/images/thumb/sphx_glr_plot_mpl_line_thumb.png
+
+        :ref:`sphx_glr__examples_plot_mpl_line.py`
+
+.. raw:: html
+
+    </div>
+
+
+.. toctree::
+   :hidden:
+
+   /_examples/plot_mpl_line
+
+.. raw:: html
+
     <div class="sphx-glr-thumbcontainer" tooltip="Example bar chart. ">
 
 .. only:: html
@@ -177,13 +237,13 @@ Code examples
 
   .. container:: sphx-glr-download
 
-    :download:`Download all examples in Python source code: _examples_python.zip <//home/lcwheeler/Documents/Independent_Projects/python-for-scientists/docs/_examples/_examples_python.zip>`
+    :download:`Download all examples in Python source code: _examples_python.zip <//home/jharman25/packages/python-setup-for-scientists/docs/_examples/_examples_python.zip>`
 
 
 
   .. container:: sphx-glr-download
 
-    :download:`Download all examples in Jupyter notebooks: _examples_jupyter.zip <//home/lcwheeler/Documents/Independent_Projects/python-for-scientists/docs/_examples/_examples_jupyter.zip>`
+    :download:`Download all examples in Jupyter notebooks: _examples_jupyter.zip <//home/jharman25/packages/python-setup-for-scientists/docs/_examples/_examples_jupyter.zip>`
 
 
 .. only:: html

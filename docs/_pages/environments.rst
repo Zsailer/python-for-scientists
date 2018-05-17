@@ -8,24 +8,24 @@ Here is a graphical representation of what you have when you start out using con
 .. image:: ../_imgs/environments_folders-1.png
   :scale: 50 %
   :align: center
- 
+
 This is your default python environment.
-It uses python 3.6 and has any packages that we've installed using either the 
+It uses python 3.6 and has any packages that we've installed using either the
 `pip` or `conda` commands.
 
-This is all well and good but what if you need to use python 2.7 for a particular
-application or problem? 
+This is all well and good, but what if, for example, you need to use python 2.7 for a particular
+application or problem?
 This is an excellent opportunity to use a **virtual environment** in conda.
-A virtual environment creates a copy of your miniconda environment with a 
-specific python version and only the packages you want.
+A virtual environment creates a copy of your miniconda environment with a
+specific python version and **only** the packages you want.
 
 This is how you make a virtual environment using conda:
 
 ::
 
   conda create -n python2 python=2.7 matplotlib pandas
-   
-The field after `-n` is the name of your environment, the `python=` flag is 
+
+The field after `-n` is the name of your environment, the `python=` flag is
 where you specify your python version, and you can add package names that you
 already have installed in your default miniconda.
 
@@ -41,10 +41,10 @@ In order to use this environment you will have to activate it:
 
    # Old conda
    source activate python2
-   
+
    # New conda
    conda activate python2
-   
+
 And when you want to switch back to your default:
 
 ::
@@ -69,7 +69,7 @@ And when you want to switch back to your default:
 .. image:: ../_imgs/miniconda.png
   :scale: 17 %
   :align: right
-  
+
 
 
 As an example I want to make an environment called "master-blaster" that uses

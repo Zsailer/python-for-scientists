@@ -3,7 +3,7 @@
 .. _sphx_glr__examples_plot_pd_scatter.py:
 
 
-Bar Chart
+Scatter Chart
 =========
 
 Example bar chart.
@@ -39,7 +39,7 @@ Example bar chart.
         ax=ax
     )
 
-**Total running time of the script:** ( 0 minutes  0.049 seconds)
+**Total running time of the script:** ( 0 minutes  1.115 seconds)
 
 
 

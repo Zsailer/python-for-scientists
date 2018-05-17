@@ -19,7 +19,8 @@ python 3.6 and has ``numpy``, ``pandas``, and ``matplotlib`` preinstalled::
 
    conda create -n master-blaster python=3.6 numpy pandas matplotlib ipykernel
 
-Why did I add ``ipykernel`` to the package list? That's so we can make an
+Why did I add ``ipykernel`` to
+:ref:`Why all the negativity around Matplotlib? <faq matplotlib>`the package list? That's so we can make an
 ipython kernel in the next step!
 
 Making an ipython kernel

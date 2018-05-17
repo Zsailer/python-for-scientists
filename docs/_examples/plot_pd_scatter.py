@@ -1,5 +1,5 @@
 """
-Bar Chart
+Scatter Chart
 =========
 
 Example bar chart.
