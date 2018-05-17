@@ -125,6 +125,22 @@ Seaborn
 
     </div>
 
+.. -------------------- New Figure ---------------------
+
+.. raw:: html
+
+    <div class="sphx-glr-thumbcontainer" tooltip="Example Histogram ">
+
+.. only:: html
+
+    .. figure:: /_examples/images/thumb/sphx_glr_plot_sns_hist_thumb.png
+
+        :ref:`sphx_glr__examples_plot_sns_hist.py`
+
+.. raw:: html
+
+    </div>
+
 
 .. -------------------- Add Figure above ---------------------
 

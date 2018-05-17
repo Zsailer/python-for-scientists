@@ -87,6 +87,26 @@ Code examples
 
 .. raw:: html
 
+    <div class="sphx-glr-thumbcontainer" tooltip="Example histogram ">
+
+.. only:: html
+
+    .. figure:: /_examples/images/thumb/sphx_glr_plot_sns_hist_thumb.png
+
+        :ref:`sphx_glr__examples_plot_sns_hist.py`
+
+.. raw:: html
+
+    </div>
+
+
+.. toctree::
+   :hidden:
+
+   /_examples/plot_sns_hist
+
+.. raw:: html
+
     <div class="sphx-glr-thumbcontainer" tooltip="Example bar chart. ">
 
 .. only:: html
@@ -144,26 +164,6 @@ Code examples
    :hidden:
 
    /_examples/plot_sns_scatter
-
-.. raw:: html
-
-    <div class="sphx-glr-thumbcontainer" tooltip="Example histrogram ">
-
-.. only:: html
-
-    .. figure:: /_examples/images/thumb/sphx_glr_plot_sns_hist_thumb.png
-
-        :ref:`sphx_glr__examples_plot_sns_hist.py`
-
-.. raw:: html
-
-    </div>
-
-
-.. toctree::
-   :hidden:
-
-   /_examples/plot_sns_hist
 .. raw:: html
 
     <div style='clear:both'></div>
@@ -177,13 +177,13 @@ Code examples
 
   .. container:: sphx-glr-download
 
-    :download:`Download all examples in Python source code: _examples_python.zip <//Users/zsailer/github/python-for-scientists/docs/_examples/_examples_python.zip>`
+    :download:`Download all examples in Python source code: _examples_python.zip <//home/lcwheeler/Documents/Independent_Projects/python-for-scientists/docs/_examples/_examples_python.zip>`
 
 
 
   .. container:: sphx-glr-download
 
-    :download:`Download all examples in Jupyter notebooks: _examples_jupyter.zip <//Users/zsailer/github/python-for-scientists/docs/_examples/_examples_jupyter.zip>`
+    :download:`Download all examples in Jupyter notebooks: _examples_jupyter.zip <//home/lcwheeler/Documents/Independent_Projects/python-for-scientists/docs/_examples/_examples_jupyter.zip>`
 
 
 .. only:: html
