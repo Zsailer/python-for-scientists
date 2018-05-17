@@ -31,6 +31,26 @@ Code examples
 
 .. only:: html
 
+    .. figure:: /_examples/images/thumb/sphx_glr_plot_sns_boxplot_thumb.png
+
+        :ref:`sphx_glr__examples_plot_sns_boxplot.py`
+
+.. raw:: html
+
+    </div>
+
+
+.. toctree::
+   :hidden:
+
+   /_examples/plot_sns_boxplot
+
+.. raw:: html
+
+    <div class="sphx-glr-thumbcontainer" tooltip="Example bar chart. ">
+
+.. only:: html
+
     .. figure:: /_examples/images/thumb/sphx_glr_plot_pd_bar_thumb.png
 
         :ref:`sphx_glr__examples_plot_pd_bar.py`
