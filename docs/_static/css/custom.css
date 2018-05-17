@@ -18,13 +18,22 @@
 }
 
 .terminal-window{
-    background: black;
+    margin: 0px 20px 0px 0px;
+    background: #343131;
     color: white;
-    font-family:courier;
-    font-size:15px;
+    font-family: courier;
+    font-size:12px;
     padding: 10px;
-    height: 300px;
-    width:500px;
     overflow: hidden;
     border-radius: 5px;
+    position: relative;
+    float: left;
+    width: 40%;
+    height: 150px;
+}
+
+.terminal-text{
+    position: absolute;
+    height:100%;
+    width:90%;
 }
