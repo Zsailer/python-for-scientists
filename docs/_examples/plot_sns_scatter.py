@@ -16,7 +16,7 @@ fig, ax = plt.subplots(figsize=(3,3))
 x = [0, 1, 2, 3, 4, 5, 6]
 y = [3, 7, 2, 4, 6, 0, 2]
 
-# Add data a scatter points onto axes
+# Add data and scatter points onto axes
 ax.scatter(x, y)
 
 # Name axes

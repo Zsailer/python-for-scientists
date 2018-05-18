@@ -7,6 +7,26 @@ Code examples
 
 .. raw:: html
 
+    <div class="sphx-glr-thumbcontainer" tooltip="Example heatmap ">
+
+.. only:: html
+
+    .. figure:: /_examples/images/thumb/sphx_glr_plot_sns_heatmap_thumb.png
+
+        :ref:`sphx_glr__examples_plot_sns_heatmap.py`
+
+.. raw:: html
+
+    </div>
+
+
+.. toctree::
+   :hidden:
+
+   /_examples/plot_sns_heatmap
+
+.. raw:: html
+
     <div class="sphx-glr-thumbcontainer" tooltip="Example bar chart. ">
 
 .. only:: html
@@ -147,6 +167,26 @@ Code examples
 
 .. raw:: html
 
+    <div class="sphx-glr-thumbcontainer" tooltip="Example line plot ">
+
+.. only:: html
+
+    .. figure:: /_examples/images/thumb/sphx_glr_plot_sns_line_thumb.png
+
+        :ref:`sphx_glr__examples_plot_sns_line.py`
+
+.. raw:: html
+
+    </div>
+
+
+.. toctree::
+   :hidden:
+
+   /_examples/plot_sns_line
+
+.. raw:: html
+
     <div class="sphx-glr-thumbcontainer" tooltip="Example bar chart. ">
 
 .. only:: html
@@ -184,6 +224,26 @@ Code examples
    :hidden:
 
    /_examples/plot_sns_scatter
+
+.. raw:: html
+
+    <div class="sphx-glr-thumbcontainer" tooltip="Example Violin Plot ">
+
+.. only:: html
+
+    .. figure:: /_examples/images/thumb/sphx_glr_plot_sns_violin_thumb.png
+
+        :ref:`sphx_glr__examples_plot_sns_violin.py`
+
+.. raw:: html
+
+    </div>
+
+
+.. toctree::
+   :hidden:
+
+   /_examples/plot_sns_violin
 .. raw:: html
 
     <div style='clear:both'></div>
