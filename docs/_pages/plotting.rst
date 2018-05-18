@@ -108,6 +108,21 @@ Seaborn
 
     </div>
 
+.. -------------------- New Figure ---------------------
+
+.. raw:: html
+
+    <div class="sphx-glr-thumbcontainer" tooltip="Example Line Plot ">
+
+.. only:: html
+
+    .. figure:: /_examples/images/thumb/sphx_glr_plot_sns_line_thumb.png
+
+        :ref:`sphx_glr__examples_plot_sns_line.py`
+
+.. raw:: html
+
+    </div>
 
 .. -------------------- New Figure ---------------------
 
@@ -157,6 +172,37 @@ Seaborn
 
     </div>
 
+.. -------------------- New Figure ---------------------
+
+.. raw:: html
+
+    <div class="sphx-glr-thumbcontainer" tooltip="Example Heatmap ">
+
+.. only:: html
+
+    .. figure:: /_examples/images/thumb/sphx_glr_plot_sns_heatmap_thumb.png
+
+        :ref:`sphx_glr__examples_plot_sns_heatmap.py`
+
+.. raw:: html
+
+    </div>
+
+.. -------------------- New Figure ---------------------
+
+.. raw:: html
+
+    <div class="sphx-glr-thumbcontainer" tooltip="Example Violin Plot ">
+
+.. only:: html
+
+    .. figure:: /_examples/images/thumb/sphx_glr_plot_sns_violin_thumb.png
+
+        :ref:`sphx_glr__examples_plot_sns_violin.py`
+
+.. raw:: html
+
+    </div>
 
 .. -------------------- Add Figure above ---------------------
 
