@@ -1,7 +1,7 @@
 Plotting Packages
 =================
 
-The `Python visualization landscape`_ is fairly diverse. We'll list of the few of the major plotting packages here:
+The `Python visualization landscape`_ is fairly diverse. We'll list a few of the major plotting packages here:
 
 .. _`Python visualization landscape`: https://speakerdeck.com/jakevdp/pythons-visualization-landscape-pycon-2017
 
@@ -16,7 +16,7 @@ The `Python visualization landscape`_ is fairly diverse. We'll list of the few o
 Matplotlib
 ----------
 
-"Matplotlib is a Python 2D plotting library which produces publication quality figures in a variety of hardcopy formats and interactive environments across platforms. Matplotlib can be used in Python scripts, the Python and IPython shells, the Jupyter notebook, web application servers, and four graphical user interface toolkits."
+Matplotlib is a Python 2D plotting library which produces publication quality figures in a variety of hardcopy formats and interactive environments across platforms. Matplotlib can be used in Python scripts, the Python and IPython shells, the Jupyter notebook, web application servers, and four graphical user interface toolkits.
 
 :ref:`Why all the negativity around Matplotlib? <faq matplotlib>`
 
@@ -79,7 +79,7 @@ Matplotlib
 Seaborn
 -------
 
-"Seaborn is a library for making attractive and informative statistical graphics in Python. It is built on top of matplotlib and tightly integrated with the PyData stack, including support for numpy and pandas data structures and statistical routines from scipy and statsmodels."
+Seaborn is a library for making attractive and informative statistical graphics in Python. It is built on top of matplotlib and tightly integrated with the PyData stack, including support for numpy and pandas data structures and statistical routines from scipy and statsmodels.
 
 
 `Docs <http://seaborn.pydata.org/>`_ | `Source <https://github.com/mwaskom/seaborn>`_ | **Gallery**

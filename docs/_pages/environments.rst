@@ -38,13 +38,13 @@ It uses python 3.6 and has any packages that we've installed using either the
 ------------------------------------
 
 
-This is all well and good but what if you need to use python 2.7 for a particular
+This is all well and good, but what if you need to use python 2.7 for a particular
 application or problem?
 This is an excellent opportunity to use a **virtual environment** in conda.
 A virtual environment creates a copy of your miniconda environment with a
 specific python version and only the packages you want.
 
-This is how you make a virtual environment using conda:
+This is how you create a virtual environment using conda:
 
 ::
 
@@ -87,9 +87,9 @@ And when you want to switch back to your default:
 ------------------------------------
 
 
-Now say that you want to install TensorFlow but you don't want to accidentally
+Now say that you want to install TensorFlow, but you don't want to accidentally
 kill your default python by installing it or you want to make sure that you can
-easily uninstall it later. A virtual environment is great for this too.
+easily uninstall it later. A virtual environment is great for this purpose too.
 
 ::
 
@@ -115,12 +115,13 @@ Now you're available environments will look like this:
 
 .. _`Creating and using a Development Environment`:
 
+
 4. Creating and using a Development Environment
 -----------------------------------------------
 
 One more reason that you might want a virtual environment is for developing your
-own packages. Say you've got a package called test that you want to test out as
-you develop it. Make a virtual environment with the packages you need and then
+own packages. Say you've got a package called *"test"* that you want to test out as
+you develop it. Create a virtual environment with the packages you need and then
 install your package with pip in editable mode.
 
 ::

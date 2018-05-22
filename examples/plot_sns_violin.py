@@ -1,6 +1,6 @@
 """
-Heatmap
-=======
+Violin Plot
+===========
 
 Example Violin Plot
 """

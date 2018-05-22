@@ -9,13 +9,13 @@ ipython Kernels
 1. Going from virtual environments to kernels
 ---------------------------------------------
 
-Virtual environments are a nice way to compartmentalize your coding environment
+Virtual environments are a nice way to compartmentalize your coding environment,
 but you can't make use of them in a jupyter notebook automatically.
 
-What we need to do is make a kernel that is associated with each virtual
+What you need to do is create a kernel that is associated with each virtual
 environment. `What is a kernel?`_
 
-The cool thing is that once we make a kernel you don't have to change virtual
+The cool thing is that once you create a kernel you don't have to change virtual
 environments to use them in the jupyter notebook!
 
 .. _`Making an ipython kernel`:
