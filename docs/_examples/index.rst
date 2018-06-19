@@ -27,6 +27,26 @@ Code examples
 
 .. raw:: html
 
+    <div class="sphx-glr-thumbcontainer" tooltip="Example histogram ">
+
+.. only:: html
+
+    .. figure:: /_examples/images/thumb/sphx_glr_plot_pd_hist_thumb.png
+
+        :ref:`sphx_glr__examples_plot_pd_hist.py`
+
+.. raw:: html
+
+    </div>
+
+
+.. toctree::
+   :hidden:
+
+   /_examples/plot_pd_hist
+
+.. raw:: html
+
     <div class="sphx-glr-thumbcontainer" tooltip="Example bar chart. ">
 
 .. only:: html
@@ -47,7 +67,7 @@ Code examples
 
 .. raw:: html
 
-    <div class="sphx-glr-thumbcontainer" tooltip="Example bar chart. ">
+    <div class="sphx-glr-thumbcontainer" tooltip="Example boxplot. ">
 
 .. only:: html
 
