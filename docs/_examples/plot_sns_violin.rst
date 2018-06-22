@@ -3,8 +3,8 @@
 .. _sphx_glr__examples_plot_sns_violin.py:
 
 
-Heatmap
-=======
+Violin Plot
+===========
 
 Example Violin Plot
 
@@ -38,7 +38,7 @@ Example Violin Plot
     # Show each distribution with both violins and points
     sns.violinplot(data=d, palette=pal, inner="points");
 
-**Total running time of the script:** ( 0 minutes  0.104 seconds)
+**Total running time of the script:** ( 0 minutes  0.101 seconds)
 
 
 
