@@ -1,7 +1,7 @@
 Plotting Packages
 =================
 
-The `Python visualization landscape`_ is fairly diverse. We'll list of the few of the major plotting packages here:
+The `Python visualization landscape`_ is fairly diverse. We'll list a few of the major plotting packages here:
 
 .. _`Python visualization landscape`: https://speakerdeck.com/jakevdp/pythons-visualization-landscape-pycon-2017
 
@@ -16,7 +16,7 @@ The `Python visualization landscape`_ is fairly diverse. We'll list of the few o
 Matplotlib
 ----------
 
-"Matplotlib is a Python 2D plotting library which produces publication quality figures in a variety of hardcopy formats and interactive environments across platforms. Matplotlib can be used in Python scripts, the Python and IPython shells, the Jupyter notebook, web application servers, and four graphical user interface toolkits."
+Matplotlib is a Python 2D plotting library which produces publication quality figures in a variety of hardcopy formats and interactive environments across platforms. Matplotlib can be used in Python scripts, the Python and IPython shells, the Jupyter notebook, web application servers, and four graphical user interface toolkits.
 
 :ref:`Why all the negativity around Matplotlib? <faq matplotlib>`
 
@@ -79,7 +79,7 @@ Matplotlib
 Seaborn
 -------
 
-"Seaborn is a library for making attractive and informative statistical graphics in Python. It is built on top of matplotlib and tightly integrated with the PyData stack, including support for numpy and pandas data structures and statistical routines from scipy and statsmodels."
+Seaborn is a library for making attractive and informative statistical graphics in Python. It is built on top of matplotlib and tightly integrated with the PyData stack, including support for numpy and pandas data structures and statistical routines from scipy and statsmodels.
 
 
 `Docs <http://seaborn.pydata.org/>`_ | `Source <https://github.com/mwaskom/seaborn>`_ | **Gallery**
@@ -108,6 +108,21 @@ Seaborn
 
     </div>
 
+.. -------------------- New Figure ---------------------
+
+.. raw:: html
+
+    <div class="sphx-glr-thumbcontainer" tooltip="Example Line Plot ">
+
+.. only:: html
+
+    .. figure:: /_examples/images/thumb/sphx_glr_plot_sns_line_thumb.png
+
+        :ref:`sphx_glr__examples_plot_sns_line.py`
+
+.. raw:: html
+
+    </div>
 
 .. -------------------- New Figure ---------------------
 
@@ -157,6 +172,37 @@ Seaborn
 
     </div>
 
+.. -------------------- New Figure ---------------------
+
+.. raw:: html
+
+    <div class="sphx-glr-thumbcontainer" tooltip="Example Heatmap ">
+
+.. only:: html
+
+    .. figure:: /_examples/images/thumb/sphx_glr_plot_sns_heatmap_thumb.png
+
+        :ref:`sphx_glr__examples_plot_sns_heatmap.py`
+
+.. raw:: html
+
+    </div>
+
+.. -------------------- New Figure ---------------------
+
+.. raw:: html
+
+    <div class="sphx-glr-thumbcontainer" tooltip="Example Violin Plot ">
+
+.. only:: html
+
+    .. figure:: /_examples/images/thumb/sphx_glr_plot_sns_violin_thumb.png
+
+        :ref:`sphx_glr__examples_plot_sns_violin.py`
+
+.. raw:: html
+
+    </div>
 
 .. -------------------- Add Figure above ---------------------
 
@@ -215,6 +261,22 @@ This module is built on top of Matplotlib.
     .. figure:: /_examples/images/thumb/sphx_glr_plot_pd_bar_thumb.png
 
         :ref:`sphx_glr__examples_plot_pd_bar.py`
+
+.. raw:: html
+
+    </div>
+
+.. -------------------- New Figure ---------------------
+
+.. raw:: html
+
+    <div class="sphx-glr-thumbcontainer" tooltip="Example Histogram ">
+
+.. only:: html
+
+    .. figure:: /_examples/images/thumb/sphx_glr_plot_pd_hist_thumb.png
+
+        :ref:`sphx_glr__examples_plot_pd_hist.py`
 
 .. raw:: html
 

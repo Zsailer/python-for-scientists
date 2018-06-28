@@ -3,10 +3,10 @@
 .. _sphx_glr__examples_plot_sns_boxplot.py:
 
 
-Bar Chart
-=========
+Boxplot
+=======
 
-Example bar chart.
+Example boxplot.
 
 
 
@@ -37,7 +37,7 @@ Example bar chart.
     ax.set_xlabel('Category')
     ax.set_ylabel('Measurement')
 
-**Total running time of the script:** ( 0 minutes  0.709 seconds)
+**Total running time of the script:** ( 0 minutes  0.711 seconds)
 
 
 

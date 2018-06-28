@@ -1,8 +1,8 @@
 """
-Bar Chart
-=========
+Boxplot
+=======
 
-Example bar chart.
+Example boxplot.
 """
 
 import seaborn as sns

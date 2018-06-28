@@ -7,6 +7,46 @@ Code examples
 
 .. raw:: html
 
+    <div class="sphx-glr-thumbcontainer" tooltip="Example heatmap ">
+
+.. only:: html
+
+    .. figure:: /_examples/images/thumb/sphx_glr_plot_sns_heatmap_thumb.png
+
+        :ref:`sphx_glr__examples_plot_sns_heatmap.py`
+
+.. raw:: html
+
+    </div>
+
+
+.. toctree::
+   :hidden:
+
+   /_examples/plot_sns_heatmap
+
+.. raw:: html
+
+    <div class="sphx-glr-thumbcontainer" tooltip="Example histogram ">
+
+.. only:: html
+
+    .. figure:: /_examples/images/thumb/sphx_glr_plot_pd_hist_thumb.png
+
+        :ref:`sphx_glr__examples_plot_pd_hist.py`
+
+.. raw:: html
+
+    </div>
+
+
+.. toctree::
+   :hidden:
+
+   /_examples/plot_pd_hist
+
+.. raw:: html
+
     <div class="sphx-glr-thumbcontainer" tooltip="Example bar chart. ">
 
 .. only:: html
@@ -27,7 +67,7 @@ Code examples
 
 .. raw:: html
 
-    <div class="sphx-glr-thumbcontainer" tooltip="Example bar chart. ">
+    <div class="sphx-glr-thumbcontainer" tooltip="Example boxplot. ">
 
 .. only:: html
 
@@ -147,6 +187,26 @@ Code examples
 
 .. raw:: html
 
+    <div class="sphx-glr-thumbcontainer" tooltip="Example line plot ">
+
+.. only:: html
+
+    .. figure:: /_examples/images/thumb/sphx_glr_plot_sns_line_thumb.png
+
+        :ref:`sphx_glr__examples_plot_sns_line.py`
+
+.. raw:: html
+
+    </div>
+
+
+.. toctree::
+   :hidden:
+
+   /_examples/plot_sns_line
+
+.. raw:: html
+
     <div class="sphx-glr-thumbcontainer" tooltip="Example bar chart. ">
 
 .. only:: html
@@ -184,6 +244,26 @@ Code examples
    :hidden:
 
    /_examples/plot_sns_scatter
+
+.. raw:: html
+
+    <div class="sphx-glr-thumbcontainer" tooltip="Example Violin Plot ">
+
+.. only:: html
+
+    .. figure:: /_examples/images/thumb/sphx_glr_plot_sns_violin_thumb.png
+
+        :ref:`sphx_glr__examples_plot_sns_violin.py`
+
+.. raw:: html
+
+    </div>
+
+
+.. toctree::
+   :hidden:
+
+   /_examples/plot_sns_violin
 .. raw:: html
 
     <div style='clear:both'></div>
@@ -197,13 +277,13 @@ Code examples
 
   .. container:: sphx-glr-download
 
-    :download:`Download all examples in Python source code: _examples_python.zip <//Users/zsailer/github/python-for-scientists/docs/_examples/_examples_python.zip>`
+    :download:`Download all examples in Python source code: _examples_python.zip <//home/lcwheeler/Documents/Independent_Projects/python-for-scientists/docs/_examples/_examples_python.zip>`
 
 
 
   .. container:: sphx-glr-download
 
-    :download:`Download all examples in Jupyter notebooks: _examples_jupyter.zip <//Users/zsailer/github/python-for-scientists/docs/_examples/_examples_jupyter.zip>`
+    :download:`Download all examples in Jupyter notebooks: _examples_jupyter.zip <//home/lcwheeler/Documents/Independent_Projects/python-for-scientists/docs/_examples/_examples_jupyter.zip>`
 
 
 .. only:: html

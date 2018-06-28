@@ -1,54 +1,60 @@
-Environments and Kernels
-========================
+ipython Kernels
+===============
 
-Setting up a new virtual environment using ``conda``
-----------------------------------------------------
+1. `Going from virtual environments to kernels`_
+2. `Making an ipython kernel`_
 
-::
+.. _`Going from virtual environments to kernels`:
 
-   conda create -n myenv python=3 package-name1 package-name2
+1. Going from virtual environments to kernels
+---------------------------------------------
 
-   # To activate or enter your new virtual environment
-   source activate myenv
+Virtual environments are a nice way to compartmentalize your coding environment,
+but you can't make use of them in a jupyter notebook automatically.
 
-   # And to leave your virtual environment
-   source deactivate myenv
+What you need to do is create a kernel that is associated with each virtual
+environment. `What is a kernel?`_
 
-As an example I want to make an environment called "master-blaster" that uses
-python 3.6 and has ``numpy``, ``pandas``, and ``matplotlib`` preinstalled::
+The cool thing is that once you create a kernel you don't have to change virtual
+environments to use them in the jupyter notebook!
 
-   conda create -n master-blaster python=3.6 numpy pandas matplotlib ipykernel
+.. _`Making an ipython kernel`:
 
-Why did I add ``ipykernel`` to the package list? That's so we can make an
-ipython kernel in the next step!
-
-Making an ipython kernel
-------------------------
+2. Making an ipython kernel
+---------------------------
 
 ::
 
-   source activate master-blaster
-   python -m ipykernel install --user --name master-blaster --display-name "Python 3 (master-blaster)"
+   # Activate your virtual environment
+   source activate Python-2.7
+
+   # Install ipykernel
+   pip install ipykernel
+
+   # Create your ipykernel
+   python -m ipykernel install --user --name Python-2.7 --display-name "Python 2.7"
 
 
-Now this kernel can be used in a Jupyter notebook without having to activate the
+Now this kernel can be used in a jupyter notebook or jupyter lab without having to activate the
 associated virtual environment.
 
-What is a virtual environment?
-------------------------------
-A virtual environment is a self-contained version of Python and specified
-packages. When you switch to a different virtual environment conda points to
-that python installation and installed packages. A package installed globally
-but not in that virtual environment won't show up.
+.. image:: ../_imgs/notebook_kernel.png
+  :scale: 8 %
+  :align: center
+
+.. image:: ../_imgs/lab_kernel.png
+  :scale: 8 %
+  :align: center
+
+And this reflects our available virtual environments that we set up before.
+
+.. image:: ../_imgs/environments_folders-2.png
+  :scale: 8%
+  :align: right
+
 
 What is a kernel?
 -----------------
 A kernel is the engine that actually runs your code. Using Jupyter you can have
 a kernel for each virtual environment and even kernels for languages other than
 Python.
-
-Why would you want a virtual environment?
------------------------------------------
-Virtual environments are a good way to protect yourself. Say you accidentally
-install or delete something, if you're in a virtual environment you can delete
-it and start over without reinstalling Python.
