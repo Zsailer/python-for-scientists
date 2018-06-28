@@ -36,8 +36,9 @@ Example boxplot.
     # Name axes
     ax.set_xlabel('Category')
     ax.set_ylabel('Measurement')
+    ax.set_xticklabels({"a":0, "b":1})
 
-**Total running time of the script:** ( 0 minutes  0.711 seconds)
+**Total running time of the script:** ( 0 minutes  0.747 seconds)
 
 
 
