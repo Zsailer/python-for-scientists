@@ -50,6 +50,24 @@ Matplotlib is a Python 2D plotting library which produces publication quality fi
 
 .. raw:: html
 
+    <div class="sphx-glr-thumbcontainer" tooltip="Example line plot ">
+
+.. only:: html
+
+    .. figure:: /_examples/images/thumb/sphx_glr_plot_mpl_line_thumb.png
+
+        :ref:`sphx_glr__examples_plot_mpl_line.py`
+
+.. raw:: html
+
+    </div>
+
+
+.. -------------------- New Figure ---------------------
+
+
+.. raw:: html
+
     <div class="sphx-glr-thumbcontainer" tooltip="Example Bar chart ">
 
 .. only:: html
@@ -62,6 +80,40 @@ Matplotlib is a Python 2D plotting library which produces publication quality fi
 
     </div>
 
+
+.. -------------------- New Figure ---------------------
+
+.. raw:: html
+
+    <div class="sphx-glr-thumbcontainer" tooltip="Example histogram ">
+
+.. only:: html
+
+    .. figure:: /_examples/images/thumb/sphx_glr_plot_mpl_histogram_thumb.png
+
+        :ref:`sphx_glr__examples_plot_mpl_histogram.py`
+
+.. raw:: html
+
+    </div>
+
+
+.. -------------------- New Figure ---------------------
+
+
+.. raw:: html
+
+    <div class="sphx-glr-thumbcontainer" tooltip="Example boxplot ">
+
+.. only:: html
+
+    .. figure:: /_examples/images/thumb/sphx_glr_plot_mpl_boxplot_thumb.png
+
+        :ref:`sphx_glr__examples_plot_mpl_boxplot.py`
+
+.. raw:: html
+
+    </div>
 
 .. -------------------- Past Figure above ---------------------
 

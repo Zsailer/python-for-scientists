@@ -87,6 +87,26 @@ Code examples
 
 .. raw:: html
 
+    <div class="sphx-glr-thumbcontainer" tooltip="Example histogram. ">
+
+.. only:: html
+
+    .. figure:: /_examples/images/thumb/sphx_glr_plot_mpl_histogram_thumb.png
+
+        :ref:`sphx_glr__examples_plot_mpl_histogram.py`
+
+.. raw:: html
+
+    </div>
+
+
+.. toctree::
+   :hidden:
+
+   /_examples/plot_mpl_histogram
+
+.. raw:: html
+
     <div class="sphx-glr-thumbcontainer" tooltip="Example bar chart. ">
 
 .. only:: html
@@ -184,6 +204,46 @@ Code examples
    :hidden:
 
    /_examples/plot_mpl_bar
+
+.. raw:: html
+
+    <div class="sphx-glr-thumbcontainer" tooltip="Example boxplot. ">
+
+.. only:: html
+
+    .. figure:: /_examples/images/thumb/sphx_glr_plot_mpl_boxplot_thumb.png
+
+        :ref:`sphx_glr__examples_plot_mpl_boxplot.py`
+
+.. raw:: html
+
+    </div>
+
+
+.. toctree::
+   :hidden:
+
+   /_examples/plot_mpl_boxplot
+
+.. raw:: html
+
+    <div class="sphx-glr-thumbcontainer" tooltip="Example bar chart. ">
+
+.. only:: html
+
+    .. figure:: /_examples/images/thumb/sphx_glr_plot_mpl_line_thumb.png
+
+        :ref:`sphx_glr__examples_plot_mpl_line.py`
+
+.. raw:: html
+
+    </div>
+
+
+.. toctree::
+   :hidden:
+
+   /_examples/plot_mpl_line
 
 .. raw:: html
 
